@@ -1,0 +1,165 @@
+.btn_arrow, .btn_mail, .btn_home, .btn_details, .btn_comments, .btn_user {
+    color: #b8b9b9;
+    display: block;
+    float: left;
+    height: 42px;
+    margin-right: 29px;
+    padding-right: 54px; /* sliding doors padding */
+    text-decoration: none;
+	font-style: normal;
+	font-family: arial, sans-serif;
+	margin-top: 8px;
+	cursor: pointer;
+	margin-bottom: 11px;
+}
+
+.btn_arrow span, .btn_mail span, .btn_home span, .btn_details span, .btn_comments span, .btn_user span{
+    display: block;
+    line-height: 20px;
+    padding: 11px 20px 5px 15px;
+	height: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 0.9em;
+	color: #7f8181;
+	text-shadow: white 1px 1px 0;
+}
+
+.btn_arrow:hover, .btn_mail:hover, .btn_home:hover, .btn_details:hover, .btn_comments:hover, .btn_user:hover {
+    background-position: right -43px;
+    color: #f9f9f9;
+    outline: none;
+}
+
+.btn_arrow:hover span, .btn_mail:hover span, .btn_home:hover span, .btn_details:hover span, .btn_comments:hover span, .btn_user:hover span {
+    background-position: left -43px;
+    padding: 11px 20px 5px 15px;
+	color: #5d5d5d;
+}
+
+.btn_arrow:active, .btn_mail:active, .btn_home:active, .btn_details:active, .btn_comments:active, .btn_user:active {
+    background-position: right -86px;
+    color: #7a7b7b;
+    outline: none; /* hide dotted outline in Firefox */
+}
+
+.btn_arrow:active span, .btn_mail:active span, .btn_home:active span, .btn_details:active span, .btn_comments:active span, .btn_user:active span {
+    background-position: left -86px;
+    padding: 11px 20px 5px 15px;
+    color: #5d5d5d;
+}
+
+/******************************************************************
+						 BUTTON NORMAL
+******************************************************************/
+.btn {
+	background: transparent url('../images/template/styles/blue/buttons/btn-right.png') no-repeat scroll top right;
+    color: #b8b9b9;
+    display: block;
+    float: left;
+    height: 42px;
+    margin-right: 29px;
+    padding-right: 18px; /* sliding doors padding */
+    text-decoration: none;
+	font-style: normal;
+	font-family: arial, sans-serif;
+	margin-top: 8px;
+	cursor: pointer;
+	z-index: 999;
+	margin-bottom: 11px;
+}
+
+.btn span{
+	background: transparent url('../images/template/styles/blue/buttons/btn-left.png') no-repeat;
+    display: block;
+    line-height: 20px;
+    padding: 11px 0 5px 18px;
+	height: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 0.9em;
+	color: #7f8181;
+	text-shadow: white 1px 1px 0;
+}
+
+.btn:hover{
+    background-position: right -43px;
+    color: #f9f9f9;
+    outline: none;
+}
+
+.btn:hover span{
+    background-position: left -43px;
+    padding: 11px 0 5px 18px;
+	color: #5d5d5d;
+}
+
+.btn:active{
+    background-position: right -86px;
+    color: #7a7b7b;
+    outline: none; /* hide dotted outline in Firefox */
+}
+
+.btn:active span{
+    background-position: left -86px;
+    padding: 11px 0 5px 18px;
+    color: #5d5d5d;
+}
+/******************************************************************
+						 PAGINATION
+******************************************************************/
+.pagenavi {
+	width:100%;
+	position:relative;
+	height: 20px;
+	margin: 0px;
+	float: left;
+	padding: 28px 0px 27px;
+	overflow: hidden;
+}
+.pagenavi a, .wp-pagenavi a:link {
+	background: url(../images/template/pagination-bg.jpg) 0 0 repeat-x;
+	text-decoration: none;
+	color: #8c8f90;
+	display: inline;
+	margin: 0px 5px 0px 0px;
+	border-radius:3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+	padding: 7px 12px;
+	border-bottom: 1px solid #b9bbbb;
+	border-right: 1px solid #e4e4e4;
+	border-left: 1px solid #e4e4e4;
+	border-top: none;
+	font: bold 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-shadow: white 1px 1px 0;
+}
+.pagenavi a:hover { 
+	color: #6a6d6e; 
+	text-shadow: white 1px 1px 0;
+	background: url(../images/template/pagination-bg.jpg) repeat-x 0 -30px;}
+	
+.pagenavi a:hover:active{
+	border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+	background-position: 0 -60px;
+	border-bottom: 1px solid #fcfeff;
+}
+
+.pagenavi a.current{
+	color: #292929;
+	background: url(../images/template/pagination-bg.jpg) repeat-x 0 -30px;
+	text-shadow: #fffeff 1px 1px 0;	
+	border-radius:3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius:3px;
+	padding: 7px 12px;
+	border-bottom: 1px solid #b9bbbb;
+	border-right: 1px solid #e4e4e4;
+	border-left: 1px solid #e4e4e4;
+	border-top: none;
+	margin-right: 5px;
+	font: bold 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}

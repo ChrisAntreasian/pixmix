@@ -1,0 +1,204 @@
+/******************************************************************
+				 SLIDER TYLES
+******************************************************************/
+.panel h2.title { margin-bottom: 10px }
+noscript div { background: none; border: 1px solid #900; margin: 20px 0; padding: 15px }
+
+/* Most common stuff you'll need to change */
+.coda-slider-wrapper { padding: 10px 0 }
+.coda-slider { background: transparent}
+	
+/* Use this to keep the slider content contained in a box even when JavaScript is disabled */
+.coda-slider-no-js .coda-slider { height: 200px; overflow: auto !important; padding-right: 20px }
+	
+/* Change the width of the entire slider (without dynamic arrows) */
+.coda-slider, .coda-slider .panel { width: 960px;
+	height: 382px;
+} 
+	
+/* Change margin and width of the slider (with dynamic arrows) */
+.coda-slider-wrapper.arrows .coda-slider, .coda-slider-wrapper.arrows .coda-slider .panel { width: 600px }
+.coda-slider-wrapper.arrows .coda-slider { margin: 0 10px }
+	
+/* Arrow styling */
+.coda-nav-left a, .coda-nav-right a { background: #000; color: #fff; padding: 5px; width: 100px }
+	
+/* Tab nav */
+.coda-nav ul li a.current { 
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 -41px; 
+}
+	
+/* Panel padding */
+.coda-slider .panel-wrapper { padding: 10px;
+}
+	
+/* Preloader */
+.coda-slider p.loading { padding: 91px 20px 20px; text-align: center }
+
+/* Don't change anything below here unless you know what you're doing */
+
+/* Tabbed nav */
+.coda-nav ul { clear: both; display: block; margin: auto; overflow: hidden;
+
+z-index: 9999;
+float: left;
+	position: relative;
+	left: 5px;
+	top: -38px;
+}
+.coda-nav ul li { display: inline; float: left; }
+.coda-nav ul li a { 
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 0;
+	text-indent: -9999px;
+	color: #fff; 
+	display: block; 
+	float: left; 
+	margin-right: 6px; 
+	padding: 0; 
+	text-decoration: none;
+	width: 21px;
+	height: 21px;
+}
+
+.coda-nav ul li a:hover{
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 -20px;
+}
+	
+/* Miscellaneous */
+.coda-slider-wrapper { clear: both; overflow: auto }
+.coda-slider { float: left; overflow: hidden; position: relative }
+.coda-slider .panel { display: block; float: left }
+.coda-slider .panel-container { position: relative }
+.coda-nav-left, .coda-nav-right { float: left }
+.coda-nav-left a, .coda-nav-right a { display: block; text-align: center; text-decoration: none }
+/******************************************************************
+						 SLIDES STYLES
+******************************************************************/	
+.panel-wrapper .description-left{
+	width: 403px;
+	float: left;
+	padding-top: 30px;
+	margin-left: -11px;
+}
+
+.panel-wrapper .description-left h2{
+	font-size: 28px;
+	font-weight: bold;
+	color: #fbfafa;
+}
+
+.panel-wrapper .description-left span.subtitle{
+	text-transform: uppercase;
+	font-size: 17px;
+	color: #cccccc;
+	padding-bottom: 25px;
+	float: left;
+	width: 100%;
+}
+
+.panel-wrapper p{
+	color: #b2b5b5;
+	padding-bottom: 10px;
+}
+
+.panel-wrapper .image-right{
+	float: right;
+	width: 500px;
+	position: relative;
+	left: 16px;
+	top: 20px;
+}
+
+.panel-wrapper .image-right img{
+	float: right;
+}
+
+.panel-wrapper .description-right{
+	float: right;
+	width: 403px;
+	padding-top: 30px;
+}
+
+.panel-wrapper .description-right h2{
+	font-size: 28px;
+	font-weight: bold;
+	color: #fbfafa;
+}
+
+.panel-wrapper .description-right span.subtitle{
+	text-transform: uppercase;
+	font-size: 17px;
+	color: #cccccc;
+	padding-bottom: 25px;
+	float: left;
+	width: 100%;
+}
+
+.panel-wrapper .image-left{
+	float: left;
+	width: 500px;
+	position: relative;
+	left: -19px;
+	top: 16px;
+}
+
+.panel-wrapper .image-left img{
+	float: left;
+}
+
+.panel-wrapper .image-right .holder{
+	background: transparent url(../images/template/video.png) no-repeat;
+	width: 439px;
+	height: 346px;
+	float: right;
+	position: relative;
+	padding: 31px 0 0 16px;
+	margin-top: 0;
+}
+
+.panel-wrapper .image-left .holder{
+	background: transparent url(../images/template/video.png) no-repeat;
+	width: 439;
+	height: 346;
+	float: left;
+	position: relative;
+	padding: 31px 14px 35px 16px;
+}
+
+.panel-wrapper .description-top{
+	width: 100%;
+}
+
+.panel-wrapper .description-top h2{
+	font-size: 28px;
+	font-weight: bold;
+	color: #fbfafa;
+	text-align: center;
+	position: relative;
+	top: 0;
+}
+
+.panel-wrapper .description-top span.subtitle{
+	text-transform: uppercase;
+	font-size: 17px;
+	color: #cccccc;
+	float: left;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	top: -33px;
+}
+
+.panel-wrapper .full-image{
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	top: 28px;
+}
+
+.panel-wrapper .full-image img{
+	float: left;
+	position: relative;
+	right: 20px;
+	top: 0;
+}

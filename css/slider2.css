@@ -1,0 +1,56 @@
+#header{
+	margin: 0 0 78px;
+}
+
+#featured{
+	overflow: hidden;
+}
+#text-intro{
+	width: 960px;
+	margin: 26px auto 0;
+	text-align: center;
+}
+
+#text-intro h2{
+	color: #f5f5f5;
+	font-size: 27px;
+}
+
+ul#slides{
+	list-style: none;
+	display: inline-block;
+}
+
+ul#slides li{
+	display: inline-block;
+	margin-bottom: 100px;
+}
+
+.roundabout-holder {
+	list-style: none;
+	width: 59em;
+	height: 12em;
+	padding: 0;
+	margin-right: 0;
+	margin-left: 91px;
+	margin-bottom: 0;
+	position: relative;
+	top: 150px;
+}
+			
+.roundabout-moveable-item {
+	height: 350px;
+	width: auto;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.roundabout-moveable-item img {
+	height: 11em;
+	width: 14em;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+}
+			
+.roundabout-in-focus {
+	cursor: auto;
+}

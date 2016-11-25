@@ -1,0 +1,63 @@
+a{
+	text-decoration: none;
+	outline: none;
+	color: #1f75b1;
+}
+
+a:hover{
+	color: #165c8d;
+}
+
+body{
+	background: url(../images/template/styles/blue/bg.jpg) repeat-x;
+}
+
+body#subpage{
+	background: url(../images/template/styles/blue/bg-subpage.jpg) repeat-x;
+}
+
+#header{
+	background: url(../images/template/styles/blue/header.jpg) no-repeat;
+}
+
+#header-subpage{
+	background: url(../images/template/styles/blue/header-subpage.jpg) no-repeat;
+}
+/******************************************************************
+						 BUTTONS
+******************************************************************/
+.btn_arrow{
+	background: transparent url('../images/template/styles/blue/buttons/btn-arrow-right.png') no-repeat scroll top right;
+}
+
+.btn_mail{
+	background: transparent url('../images/template/styles/blue/buttons/btn-mail-right.png') no-repeat scroll top right;
+}
+
+.btn_home{
+	background: transparent url('../images/template/styles/blue/buttons/btn-home-right.png') no-repeat scroll top right;
+}
+
+.btn_details{
+	background: transparent url('../images/template/styles/blue/buttons/btn-details-right.png') no-repeat scroll top right;
+}
+
+.btn_user{
+	background: transparent url('../images/template/styles/blue/buttons/btn-user-right.png') no-repeat scroll top right;
+}
+.btn_comments{
+	background: transparent url('../images/template/styles/blue/buttons/btn-comment-right.png') no-repeat scroll top right;
+}
+
+.btn_arrow span, .btn_mail span, .btn_home span, .btn_details span, .btn_comments span, .btn_user span{
+	background: transparent url('../images/template/styles/blue/buttons/btn-left.png') no-repeat;
+}
+
+
+#commentform label.submit-comment{
+	background: transparent url(../images/template/styles/blue/buttons/btn-comment-right.png) no-repeat top right;
+}
+
+#contact label.submit{
+	background: transparent url(../images/template/styles/blue/buttons/btn-mail-right.png) no-repeat top right;
+}

@@ -1,0 +1,127 @@
+#header{
+	margin: 0 0 78px;
+}
+#featured{
+	height: 414px;
+	overflow: hidden;
+}
+#featured .slide-description{
+	margin-top: 68px;
+	width: 413px;
+	color: #d3d3d3;
+	margin-bottom: 122px;
+	float: left;
+	overflow: hidden;
+}
+
+#featured .slide-description p{
+	color: #b2b5b5;
+	margin-bottom: 15px;
+}
+#featured .slide-description h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #fbfafa;
+	text-transform: uppercase;
+}
+
+#featured .slide-description span.subtitle{
+	text-transform: uppercase;
+	font-size: 17px;
+	color: #cccccc;
+	padding-bottom: 25px;
+	float: left;
+	width: 100%;
+}
+
+#myslides{
+	width: 100%;
+	position: relative;
+	top: 1px;
+}
+#myslides .slide{
+	width: 957px;
+	padding: 0;
+}
+
+.slide .slide-image{
+	float: right;
+	width: 509px;
+	height: 410px;
+	position: relative;
+	top: 65px;
+	right: 0;
+}
+
+.slide .slide-image img{
+	float: right;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+}
+
+#nav{
+	position: relative;
+	z-index: 999;
+	top: -35px;
+	left: 10px;
+}
+
+#nav a {
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 0; 
+	text-decoration: none; 
+	padding: 3px 2px 1px 5px;  
+	text-indent: -9999px !important;
+	width: 19px;
+	height: 17px;
+	float:left;
+	margin: 0;
+}
+
+#nav a:hover, #nav a:focus { 
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 -20px;	
+}
+#nav a.activeSlide { 
+	background: transparent url(../images/template/slider/bullets.png) no-repeat 0 -41px; }
+
+
+.slide-image span.stripe{
+	background: transparent url(../images/template/stripe.png) no-repeat;
+	width: 113px;
+	height: 98px;
+	display: block;
+	float: right;
+	position: absolute;
+	z-index: 100;
+	right: 9px;
+	top: 17px;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+}	
+
+.slide-image .holder{
+	background: transparent url(../images/template/slideimg-holder.png) no-repeat;
+	width: 445px;
+	height: 346px;
+	position: relative;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+	float: right;
+	left: 0;
+	padding: 0;
+	margin: 0 10px 0 0;
+}
+
+.slide-image .holder img{
+	position: relative;
+	top: 31px;
+	right: 0;
+	display: block;
+	float:left;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+	left: 10px;
+}
+
+.slide-image .picholder{
+	position: relative;
+	right: 10px;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');
+}
+
+img.picholder{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/template/clear.gif');}
