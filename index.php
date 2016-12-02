@@ -127,7 +127,7 @@
 					<div class="col-description">
 						<h3><a href="/welcome">Welcome Message</a></h3>
 
-						<p>A successful event is our best calling card, <a href="/welcome.html" title="Learn More About PixMix Video Services">click to read more</a></p>
+						<p>A successful event is our best calling card, <a href="/welcome" title="Learn More About PixMix Video Services">click to read more</a></p>
 
 
 

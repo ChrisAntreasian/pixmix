@@ -61,3 +61,7 @@ body#subpage{
 #contact label.submit{
 	background: transparent url(../images/template/styles/blue/buttons/btn-mail-right.png) no-repeat top right;
 }
+
+#bigpic2 img {
+	max-height: 263px;
+}

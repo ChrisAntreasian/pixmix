@@ -12,9 +12,18 @@
                 </ul>
             </li><!-- end Home -->
 
-            <li><a href="live">Studio Facilities & Rentals</a>
+            <li><a href="metro-west">Studio Facilities & Rentals</a>
                 <ul>
-                    <li><a href="live">17&#8217x13&#8217 Studio</a></li>
+                    <li>
+                        <a href="boston">
+                            Boston Live Shot HD Studio &nbsp;</br>Multi-Camera Control Room
+                        </a>
+                    </li>
+                    <li>
+                        <a href="metro-west">
+                            MetroWest<br />Economy Studio 
+                        </a>
+                    </li>
                 </ul>
             </li><!-- end About -->
 
