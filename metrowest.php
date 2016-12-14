@@ -46,52 +46,47 @@
                 </div>
 
                 <div id="thumbs2">
-
-                <ul>
-                    <li>
-                        <a rel="images/metro-west/metro-west-floorplan.jpg" href="images/metro-west/metro-west-floorplan.jpg">
-                            <img src="images/metro-west/metro-west-floorplan.jpg" alt="Floor Plan" title="Boston news feed studio with Charles River night scenic" />
-                        </a>
-                    </li>
-                    <li>
-                        <a rel="images/metro-west/cloth-light-slashes.jpg" href="images/metro-west/cloth-light-slashes.jpg">
-                            <img src="images/metro-west/cloth-light-slashes.jpg" alt="Decorations" title="Boston news feed studio with Charles River night scenic" />
-                        </a>
-                    </li>
-                    <li>
-                        <a rel="images/metro-west/cloth-set-elements.jpg" href="images/metro-west/cloth-set-elements.jpg">
-                            <img src="images/metro-west/cloth-set-elements.jpg" alt="Decorations" title="Boston news feed studio with Charles River night scenic" />
-                        </a>
-                    </li>
-                    <li>
-                        <a rel="images/metro-west/escape.jpg" href="images/metro-west/escape.jpg">
-                            <img src="images/metro-west/escape.jpg" alt="Escape in Garage" />
-                        </a>
-                    </li>
-                   
-                    <li>
-                        <a rel="images/metro-west/mini.jpg" href="images/metro-west/mini.jpg">
-                            <img src="images/metro-west/mini.jpg" alt="Mini in Garage" />
-                        </a>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <a rel="images/metro-west/van.jpg" href="images/metro-west/van.jpg">
-                            <img src="images/metro-west/van.jpg" alt="van in Garage" />
-                        </a>
-                    </li>
-                     <li>
-                        <a rel="images/metro-west/pixmix-metro-west-outside.jpg" href="images/metro-west/pixmix-metro-west-outside.jpg">
-                            <img src="images/metro-west/pixmix-metro-west-outside.jpg" alt="Pixmix outside" />
-                        </a>
-                    </li>
-                    <li>
-                        <a rel="images/metro-west/pixmix-sign.jpg" href="images/metro-west/pixmix-sign.jpg">
-                            <img src="images/metro-west/pixmix-sign.jpg" alt="Pixmis sign" />
-                        </a>
-                    </li>
-                </ul>
+                    <ul>
+                       
+                        <li>
+                            <a rel="images/metro-west/mini.jpg" href="images/metro-west/mini.jpg">
+                                <img src="images/metro-west/mini.jpg" alt="Mini in Studio" title="Mini Cooper in Studio" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/metro-west/escape.jpg" href="images/metro-west/escape.jpg">
+                                <img src="images/metro-west/escape.jpg" alt="Mid Sized Escape in Studio" title="Mid Sized Escape in Studio"/>
+                            </a>
+                        </li>
+                          <li>
+                            <a rel="images/metro-west/van.jpg" href="images/metro-west/van.jpg">
+                                <img src="images/metro-west/van.jpg" alt="Full Sized Van in Studio" title="Full Sized Van in Studio" />
+                            </a>
+                        </li> 
+                        
+                    </ul>
+                    <ul>
+                         <li>
+                            <a rel="images/metro-west/cloth-light-slashes.jpg" href="images/metro-west/cloth-light-slashes.jpg">
+                                <img src="images/metro-west/cloth-light-slashes.jpg" alt="Cloth Cyc with Lighting Effects " title="Cloth Cyc with Lighting Effects " />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/metro-west/cloth-set-elements.jpg" href="images/metro-west/cloth-set-elements.jpg">
+                                <img src="images/metro-west/cloth-set-elements.jpg" alt="Background Set Elements add Dimension " title="Background Set Elements add Dimension " />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/metro-west/pixmix-sign.jpg" href="images/metro-west/pixmix-sign.jpg">
+                                <img src="images/metro-west/pixmix-sign.jpg" alt="Producer Entrance " title="Producer Entrance " />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/metro-west/pixmix-metro-west-outside.jpg" href="images/metro-west/pixmix-metro-west-outside.jpg">
+                                <img src="images/metro-west/pixmix-metro-west-outside.jpg" alt="Large Doors Allow Easy Load In & Out " title="Large Doors Allow Easy Load In & Out " />
+                            </a>
+                        </li>
+                    </ul>
                 </div>
 			</div><!-- end of content-left -->
 
@@ -99,7 +94,6 @@
 				<span class="sidebar-top"></span><!-- end of sidebar-top -->
 				<div class="sidebar-middle">
 					<div class="sidebar-block">
-						<h4 class="title">Live Shot Studio</h4>
 						<div class="block-content">
                             <p>Located just 1.5 miles from Exit 18 / Route 495, our 25’ x 21’ MetroWest studio space was designed with the needs of the budget conscious producer in mind.</p>
                             <p>Featuring a lighting grid at 13’, 100 amps of electrical power, 3 cloth cycs (Black, Blue and Gray) on curtain tracks, plus full Air Conditioning (or Heat) this space is ideal for a wide variety of uses.</p>

@@ -12,15 +12,15 @@
                 </ul>
             </li><!-- end Home -->
 
-            <li><a href="metro-west">Studio Facilities & Rentals</a>
+            <li><a href="metrowest">Studio Facilities & Rentals</a>
                 <ul>
                     <li>
                         <a href="boston">
-                            Boston Live Shot HD Studio &nbsp;</br>Multi-Camera Control Room
+                            Boston HD Studio
                         </a>
                     </li>
                     <li>
-                        <a href="metro-west">
+                        <a href="metrowest">
                             MetroWest<br />Economy Studio 
                         </a>
                     </li>
