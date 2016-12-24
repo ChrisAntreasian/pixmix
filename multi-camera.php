@@ -25,16 +25,6 @@
 			</div><!-- end of page-description -->
 		</div><!-- end of header-subpage -->
 
-
-		<div class="navbar">
-			<div class="filter-nav">
-				<ul>
-
-				</ul>
-
-			</div> <!--end of filter-nav-->
-		</div><!-- end of navbar -->
-
 		<div id="main-content">
 			<div id="fullwidth">
 				<div id="portfolio3">
@@ -65,7 +55,7 @@
                                 	<strong>Our Top-of-the-Line High Definition Fly-pack:</strong>
                                     <ul>
                                         <li>2 Sony D-70HD cameras with Multicore CCU&#39;s</li>
-										<li>2 Sony PDW-700HD Cameras w/Telecast fiber CCU</li>
+										<li>2 Sony PDW-700HD Cameras w/Telecast fiber CCU&rsquo;s</li>
 										<li>All cameras have full studio configurations</li>
 										<li>Panasonic or Grass Valley HD-SDI video switcher</li>
 										<li>Ikegami 24&quot; monitor for 10 pane multi-viewer</li>

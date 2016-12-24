@@ -29,16 +29,6 @@
 			</div><!-- end of page-description -->
 		</div><!-- end of header-subpage -->
 
-
-		<div class="navbar">
-			<div class="filter-nav">
-				<ul>
-
-				</ul>
-
-			</div> <!--end of filter-nav-->
-		</div><!-- end of navbar -->
-
 		<div id="main-content">
 			<div id="fullwidth">
 
