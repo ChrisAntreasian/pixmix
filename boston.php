@@ -46,7 +46,7 @@
                 </div>
 
                 <div id="thumbs2">
-                    <ul>
+                    <ul class="col-3">
                         <li>
                             <a rel="images/boston/pixmix-floorplan-1.jpg" href="images/boston/pixmix-floorplan-1.jpg">
                                 <img src="images/boston/pixmix-floorplan-1.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
@@ -63,7 +63,7 @@
                             </a>
                         </li>
                     </ul>
-                    <ul>
+                    <ul class="col-3">
                         <li>
                             <a rel="images/boston/talent-on-set.jpg" href="images/boston/talent-on-set.jpg">
                                 <img src="images/boston/talent-on-set.jpg" alt="Doctors prepare for a LIVE - Labroots webcast " title="Doctors prepare for a LIVE - Labroots webcast " />
@@ -87,6 +87,7 @@
 				<span class="sidebar-top"></span><!-- end of sidebar-top -->
 				<div class="sidebar-middle">
 					<div class="sidebar-block">
+                        <h4 class="title">HD Studio</h4>
                         <div class="block-content">
                             <p>
                                 The PixMix Boston studio facility is <br />

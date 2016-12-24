@@ -46,8 +46,7 @@
                 </div>
 
                 <div id="thumbs2">
-                    <ul>
-                       
+                    <ul class="col-3">                       
                         <li>
                             <a rel="images/metro-west/mini.jpg" href="images/metro-west/mini.jpg">
                                 <img src="images/metro-west/mini.jpg" alt="Mini in Studio" title="Mini Cooper in Studio" />
@@ -65,7 +64,7 @@
                         </li> 
                         
                     </ul>
-                    <ul>
+                    <ul class="col-4">                       
                          <li>
                             <a rel="images/metro-west/cloth-light-slashes.jpg" href="images/metro-west/cloth-light-slashes.jpg">
                                 <img src="images/metro-west/cloth-light-slashes.jpg" alt="Cloth Cyc with Lighting Effects " title="Cloth Cyc with Lighting Effects " />
@@ -94,6 +93,7 @@
 				<span class="sidebar-top"></span><!-- end of sidebar-top -->
 				<div class="sidebar-middle">
 					<div class="sidebar-block">
+                        <h4 class="title">MetroWest Studio</h4>
 						<div class="block-content">
                             <p>Located just 1.5 miles from Exit 18 / Route 495, our 25’ x 21’ MetroWest studio space was designed with the needs of the budget conscious producer in mind.</p>
                             <p>Featuring a lighting grid at 13’, 100 amps of electrical power, 3 cloth cycs (Black, Blue and Gray) on curtain tracks, plus full Air Conditioning (or Heat) this space is ideal for a wide variety of uses.</p>
