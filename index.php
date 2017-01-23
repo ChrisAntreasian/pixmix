@@ -25,11 +25,7 @@
     <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="js/coda-slider-2.0.js"></script>
     <script type="text/javascript" src="js/slider3.js"></script>
-	<script type="text/javascript" src="js/redirection_mobile.js"></script>
-	
-	<script type="text/javascript">
-		SA.redirection_mobile ({param:"isDefault", mobile_prefix : "m", cookie_hours : "1" });
-	</script>
+
 
 </head>
 
