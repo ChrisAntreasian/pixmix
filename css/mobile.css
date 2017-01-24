@@ -5,12 +5,45 @@
 #navigation {
     display: block;
 }
+
 @media only screen and (max-width: 48em) {
-    
+    .mobile__hidden {
+        display: none;
+    }
+    body {
+        box-sizing: border-box;
+    }
+    body#subpage {
+        background: none;
+    }
+    .page-description {
+        height: 50px;
+    }
+    .navbar {
+        width: 100%;
+        height: 48px;
+        margin: 0;
+    }
+    #main-content {
+        margin-top: 0;
+    }
+    .content-left {
+        width: 100%;
+        margin-bottom: 10px;
+        margin-top: 0;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    .content-left ul li {
+        list-style: none;
+    }
     /****** Header ******/
     
     #wrapper {
         width: 100%;
+    }
+    #header {
+        background-position-y: -25px;
     }
     #logo {
         background: transparent url(../images/mobile/logo.png) no-repeat;
@@ -30,18 +63,19 @@
         margin: 0;
         font-size: 14px;
         color: #bdbdbd;    
+        height: auto;
     }
     #mobile__menu-btn {
         position: absolute;
         top: 0;
         left: 0;
-        margin: 10px;
-        height: 28px;
+        margin: 8px 8px;
+        height: 26px;
         width: 28px;
         -webkit-border-radius: 3px;
         -moz-border-radius: 3px; 
         border-radius: 3px; 
-        border: 1px solid #bdbdbd;
+        border: 2px solid #bdbdbd;
         display: block;
     }
     #mobile__menu-btn:after {
@@ -66,27 +100,48 @@
         top:0;
         position: fixed;
         background: #021420;
+        z-index: 100;
     }
-    /****** Navigation *******/
 
+    /****** Navigation *******/
+    
+    .mobile__nav-bg {
+        background-image: url(../images/template/styles/blue/header.jpg);
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        background-position-y: -75px;
+        z-index: 2;
+        position: absolute;
+    }
     #navigation {
         position: fixed;
         height: 100%;
         width: 100%;
-        background-image: url(../images/template/styles/blue/header.jpg);
         z-index: 1;
         margin: 0;
         background-color: #021420;
-        background-repeat: no-repeat;
         display: none;
-    
+        background-repeat: repeat-y;
+        background: -webkit-gradient(linear, left top, right top, from(#011b28), to(#021420));
+        background: -webkit-linear-gradient(left, #021420, #011b28);
+        background: -moz-linear-gradient(left, #021420, #011b28);
+        background: -ms-linear-gradient(left, #021420, #011b28);
+        background: -o-linear-gradient(left, #021420, #011b28);    
     }
     #navigation.active {
         display: block;
     }
+    #navigation ul {
+        z-index: 3;
+        position: absolute;
+    }
     #navigation ul li {
         float: none;
         margin: 14px 10px;
+    }
+    #navigation ul li.mobile__hidden {
+        display: none;
     }
     #navigation ul li a {
         padding-bottom: 0;

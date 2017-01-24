@@ -1,8 +1,11 @@
 <div class="top">
-    <a id="mobile__menu-btn" href="#"></a>
-    <a id="logo" href="index">PixMix</a>
-    <a id="logo2" href="contact">617.923.0102</a>
+    <div class="mobile__header">
+        <a id="mobile__menu-btn" href="#"></a>
+        <a id="logo" href="index">PixMix</a>
+        <a id="logo2" href="contact">617.923.0102</a>
+    </div>
     <div id="navigation">
+        <div class="mobile__nav-bg"></div>
         <ul>
             <li><a href="single-camera">Multi & Single Camera</a>
                 <ul>
@@ -28,7 +31,7 @@
                 </ul>
             </li><!-- end About -->
 
-            <li><a href="live">Live Studio Transmissions</a>
+            <li class="mobile__hidden"><a href="live">Live Studio Transmissions</a>
                 <ul>
                     <li><a href="live">Live Shots</a></li>
                     <li><a href="webcasts">Webcasts</a></li>
@@ -37,7 +40,7 @@
                 </ul>
             </li><!-- end service -->
 
-            <li><a href="broadcast-clients">Clients & Testimonials</a>
+            <li class="mobile__hidden"><a href="broadcast-clients">Clients & Testimonials</a>
                 <ul>
                     <li><a href="broadcast-clients">Broadcast Clients</a></li>
                     <li><a href="corporate-clients">Corporate Clients</a></li>

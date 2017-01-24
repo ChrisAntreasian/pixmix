@@ -113,7 +113,7 @@
 			</div><!-- end of featured -->
 		</div><!-- end of header -->
 
-		<div id="main-content">
+		<div id="main-content" class="mobile__hidden">
 			<div class="three-cols-home">
 				<div class="col1">
 					<div class="colimage">
