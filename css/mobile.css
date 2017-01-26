@@ -210,4 +210,76 @@
         width: 100%;
         margin:0;
     }
+    
+    /****** contact ******/
+    #contact {
+        margin: 0;
+    }
+    #contact label {
+        float: none;
+    }
+    #contact .input-wrapper {
+        background: none;
+        padding: 0;
+        width: auto;
+    }
+    #contact .input-wrapper input {
+        border: 1px solid #bdbdbd;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px; 
+        border-radius: 3px;
+        background: #f2f2f2;
+        width:100%;
+        box-sizing: border-box;
+        height: 35px;
+        padding: 5px;
+    }
+    #contact .input-text {
+        width: 100%;
+        background: none;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px; 
+        border-radius: 3px; 
+    }
+    #contact textarea {
+        width: 100%;
+        padding: 5px;
+        box-sizing: border-box;
+        border: 1px solid #bdbdbd;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px; 
+        border-radius: 3px;
+        background: #f2f2f2;
+    }
+    #contact label.submit {
+        margin-right: 0;
+        right: 0;
+        top: 0;
+        float: left;
+    }
+    /****** sidebar ******/
+    #sidebar {
+        float: left;
+        width: 100%;
+    }
+    .sidebar-block {
+        padding: 10px;
+        box-sizing: border-box;
+        margin: 0;
+        width:100%;
+    }
+    .map-holder {
+        background: none;
+        width: 100%;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    .map-holder div:first-of-type {
+        width: 100% !important;
+    }
+    .gmap_canvas {
+        height: 100%;
+        width: 100%;
+    }
 }
