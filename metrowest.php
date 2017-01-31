@@ -38,7 +38,7 @@
 
         <!-- end of navbar -->
         <div id="main-content">
-			<div class="content-left">
+			<div class="content-left content-left--gallery">
 				<h2>&nbsp;</h2>
 
                 <div id="bigpic2"><img src="images/metro-west/metro-west-floorplan.jpg" alt="AARP" />

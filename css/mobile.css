@@ -15,6 +15,7 @@
     }
     body#subpage {
         background: none;
+        overflow-x: hidden;
     }
     .page-description {
         height: 50px;
@@ -189,7 +190,9 @@
     }
 
     /****** Galleru Elements *******/
-
+    #portfolio3 ul li {
+        background: none;
+    }
     #portfolio3 .project-description {
         width: 100%;
         padding: 0 10px 10px;
@@ -209,8 +212,11 @@
         height: auto;
         width: 100%;
         margin:0;
+        margin-bottom: 10px;
     }
-    
+    #portfolio3 ul li .project-image p {
+        display: none;
+    }
     /****** contact ******/
     #contact {
         margin: 0;
@@ -281,5 +287,30 @@
     .gmap_canvas {
         height: 100%;
         width: 100%;
+    }
+
+    /****** gallery pages ******/
+    #bigpic2 {
+        height: auto !important;
+        margin-top: 50px;
+    }
+    #bigpic2 img {
+        width: 100%;
+        height: auto;
+        max-height: 9999px;
+    }
+    #bigpic2 p,
+    #thumbs2 {
+        display: none;
+    }
+    .content-left--gallery {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    #sidebar span.sidebar-top {
+        display: none;
+    }
+    #sidebar .content-left {
+        padding: 0;
     }
 }
