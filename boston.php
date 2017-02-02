@@ -94,7 +94,7 @@
                                 16’ x 16’ and is equipped with low heat <br />
                                 KinoFlo lighting instruments.
                             </p>
-                            <p>This studio has a permanent set and “news desk”.  While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set.  For “live shots” we only use a single HD camera, but the studio is pre-wired for up to 3 HD cameras and we have produced a number of LIVE 3 camera webcasts from this space.</p>
+                            <p>This studio has a permanent set and “news desk”.  While used primarily for single camera “live shots”, the studio can easily accommodate up to 5 people at one time on set.  For “live shots” we only use a single HD camera, but the studio is pre-wired for up to 3 HD cameras and we have produced a number of LIVE 3 camera webcasts from this space.</p>
                             <p>Adjacent to the studio is our Multi-Camera Control Room.  The front bench area is arranged like a traditional TV Control Room with seating for Director, Audio Engineer, Video Engineer and Prompter/Chyron operator.</p>
                             <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p> 
                             <p>To book the studio for a live shot or for a multi-camera production please call <br />617-254-0590 for rates and availability.</p>
