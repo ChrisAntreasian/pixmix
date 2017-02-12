@@ -29,11 +29,12 @@
 
 </head>
 
-<body id="home">
+<body id="home" class="ind">
     <div id="wrapper">
 		<div id="header">
 
 			<?php include('./partials/top.php'); ?>
+			<?php include('./partials/mobile-home.php'); ?>
 
 			<div id="featured">
 

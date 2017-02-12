@@ -5,6 +5,11 @@
 
 <script type="text/javascript">
     $(function() {
+        var mq = window.matchMedia( "(max-width: 48em)" );
+        if (mq.matches) {
+           $('.project-image a').removeAttr('rel').attr('target','_blank'); 
+        }
+
         $('#mobile__menu-btn').click(function(e) {
             if ($(this).hasClass('active')) {
                 $('#navigation').removeClass('active');
@@ -13,6 +18,17 @@
             }
             $('#navigation').addClass('active');
             $(this).addClass('active');
+        });
+        $('.m-home__primary h2').click(function(e) {
+            $('.m-home__primary h2').removeClass('active');
+            $('.m-home__secondary').removeClass('active');
+            if ($(this).hasClass('active')) {
+                console.log($(this))
+                return;
+            }
+            $(this).siblings('.m-home__secondary').addClass('active');
+            $(this).addClass('active');
+
         });
     });
 </script>

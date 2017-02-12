@@ -5,7 +5,10 @@
 #navigation {
     display: block;
 }
-
+.m-home,
+.copyright-content--mobile {
+    display: none;
+}
 @media only screen and (max-width: 48em) {
     .mobile__hidden {
         display: none;
@@ -139,13 +142,15 @@
     }
     #navigation ul li {
         float: none;
-        margin: 14px 10px;
+        margin: 16px 10px;
     }
     #navigation ul li.mobile__hidden {
         display: none;
     }
     #navigation ul li a {
         padding-bottom: 0;
+        font-size: 18px;
+        line-height: 24px;
     }
     #navigation ul li ul, 
     #navigation ul li ul.children {
@@ -178,9 +183,15 @@
         font-family:Arial, Helvetica, Geneva, sans-serif;
         letter-spacing: normal;
         color: #bdbdbd;
+        font-size: 18px;
+        line-height: 22px;
     }
     #navigation ul li ul li a:hover {
         color: #ffffff;
+    }
+    #navigation ul li ul li a div {
+        display: inline;
+        margin-right: 4px;
     }
     /****** Mobile hide Elements ******/
     
@@ -312,5 +323,141 @@
     }
     #sidebar .content-left {
         padding: 0;
+    }
+
+    /****** mobile index ******/
+    
+    body#home.ind {
+        background: -webkit-linear-gradient(top, #021420, #0e4260);
+        background: -moz-linear-gradient(top, #021420, #0e4260);
+        background: -ms-linear-gradient(top, #021420, #0e4260);
+        background: -o-linear-gradient(top, #021420, #0e4260);
+    }
+    body#home.ind #header {
+        background: none;
+    }
+    body#home.ind #header .top {
+        display: none;
+    }
+    body#home.ind #featured {
+        display: none;
+    }
+    .m-home {
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+        display: block;
+    }
+    .m-home__logo {
+        margin: 0 auto;
+        display: block;
+    }
+    .m-home__phone {
+        text-align: center;
+        font-size: 18px;
+    }
+    .m-home__subhead {
+        padding: 5px 0;
+    }
+    .m-home h1 {
+        color: #faf8fa;
+        font-size: 16px;
+        text-align: center;        
+    }
+    .m-home h2{
+        color: #faf8fa;
+        text-align: center;
+        padding: 12px 0;
+        cursor: pointer;
+        border-top: 1px solid #04283e;
+        font-size: 22px;
+        text-align: center;
+    }
+    .m-home h2:first-of-type {
+        border-top: none;
+    }
+    .m-home__primary,
+    .m-home__secondary {
+        list-style: none;
+    }
+    .m-home__primary li {
+        border-top: 2px solid #0d6196;
+        border-left: 2px solid #0d6196;
+        background: -webkit-linear-gradient(bottom, #082d42, #0e4260);
+        background: -moz-linear-gradient(bottom, #082d42, #0e4260);
+        background: -ms-linear-gradient(bottom, #082d42, #0e4260);
+        background: -o-linear-gradient(bottom, #082d42, #0e4260);
+        border-bottom: 2px solid #041016;
+        border-right: 2px solid #0D3D59;
+
+    }
+    .m-home__primary li:last-of-type {
+        border-bottom: 0;
+    }
+    .m-home__primary {
+        margin: 20px 0;
+        border: 4px solid #041016;
+        background: #041526;
+    }
+    .m-home__secondary {
+        font-size: 20px;
+        border-bottom: 3px solid #041016;
+        border-top: 3px solid #041016;
+        display: none;
+    }
+    .m-home__secondary.active {
+        display: block;
+    }
+    .m-home__secondary:last-of-type {
+        border-bottom: none;
+    }
+    .m-home__secondary li {
+        padding: 12px 10px;
+        background: #ededed;
+        box-sizing: border-box;
+        border-bottom: 1px solid #041016;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+    }
+    .m-home__secondary li a {
+        color: #165c8d;
+    }
+    .m-home__secondary li:last-of-type {
+        border-bottom: 0;
+    }
+    .m-home__contact,
+    .m-home__contact:hover {
+        color: #faf8fa;
+        text-decoration: none;
+    }
+
+    /****** footer ******/
+    #footer {
+        background: #041016;
+        box-sizing: border-box;
+        padding: 0 10px;
+        
+    }
+
+    #footer .copyright p {
+        display: none;
+    }
+    #footer .copyright {
+        background: none;
+    }
+    .copyright-content--mobile {
+        display: inline-block;
+        color: #bdbdbd;
+        line-height: 18px;
+        padding: 18px 0;
+        width: auto;
+        text-transform: uppercase;
+    }
+    .copyright-content--mobile div {
+        margin-top: 6px;
+    }
+    .copyright-content--mobile div:first-of-type {
+        margin-top: 0;
     }
 }

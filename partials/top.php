@@ -2,7 +2,7 @@
     <div class="mobile__header">
         <a id="mobile__menu-btn" href="#"></a>
         <a id="logo" href="index">PixMix</a>
-        <a id="logo2" href="contact">617.923.0102</a>
+        <a id="logo2" href="contact">617-254-0590</a>
     </div>
     <div id="navigation">
         <div class="mobile__nav-bg"></div>
@@ -25,13 +25,13 @@
                     </li>
                     <li>
                         <a href="metrowest">
-                            MetroWest<br />Economy Studio 
+                            <div>MetroWest</div><div>Economy Studio </div>
                         </a>
                     </li>
                 </ul>
             </li><!-- end About -->
 
-            <li class="mobile__hidden"><a href="live">Live Studio Transmissions</a>
+            <li><a href="live">Live Studio Transmissions</a>
                 <ul>
                     <li><a href="live">Live Shots</a></li>
                     <li><a href="webcasts">Webcasts</a></li>
