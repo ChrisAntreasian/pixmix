@@ -12,10 +12,12 @@
 
         $('#mobile__menu-btn').click(function(e) {
             if ($(this).hasClass('active')) {
+                $('body').removeClass('frozen');
                 $('#navigation').removeClass('active');
                 $(this).removeClass('active');
                 return;
             }
+            $('body').addClass('frozen');
             $('#navigation').addClass('active');
             $(this).addClass('active');
         });

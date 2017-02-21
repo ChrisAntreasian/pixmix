@@ -38,6 +38,7 @@
 							<div class="project-image">
 								<a href="http://vimeo.com/38036504" rel="lightbox[set1]" title="Single Camera"><span class="hovervideobig"></span>
 									<img src="images/assets/SinglecamStill.png" height="295" width="566" alt="Single Camera Video" title="Single Camera coverage for C-SPAN of President Bush in New Hampshire 2004" /></a><br />
+									<div class="mobile__video-caption">click image above for demo</div>
 									<p>Hover over image to play video</p>
 							</div><!-- end of project-image -->
 

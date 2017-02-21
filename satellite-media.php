@@ -61,26 +61,29 @@
 						<h4 class="title">Satellite Media Tours</h4>
 						<div class="block-content">
 
-							<p>Satellite Media Tours are a variation of fiber feeds. SMT&#39;s are of a longer duration, generally lasting from
-								one to two hours or more in length. These tours can range from a single guest and a <a href="/single-camera" title="PixMix Single Camera Packages">single camera</a> up to
-								three (or more) guests and <a href="/multi-camera" title="PixMix Multi Camera Packages">three studio cameras.</a></p>
-
-							<p>One critical element of a successful Satellite Media Tour is the coordination of the incoming IFB and
-								PL audio sources. PixMix can supply our control room with<br /> additional telephone hybrids and<br />
-								phone lines, making <q>hop scotching</q><br /> of the audio a seamless affair.</p>
-
-								<p>For SMT&#39;s of a modest nature that<br />
-								do not require our larger 28'x28' studio,<br />
-								the smaller <a href="/live" title="Single camera News Hit live fiber shots">13&#39;x17&#39; studio</a> is ideal.<br />
-								This is because our dedicated single<br />
-								camera fiber studio is permanently<br />
-								set and lit and requires fewer<br />
-								operating personnel. </p>
-
-								<p>For producers on a budget this<br />
-								smaller studio is a practical,<br />
-								low cost alternative.</p>
-
+							<p>
+								Webcasts are similar to Live Shots as they are
+								generally LIVE events.  One major difference is
+								that webcasts typically utilize two or three cameras,
+								and generally run about 60 minutes or more in length.
+							</p>
+							<p> 
+								PixMix works with the nation’s leading webcast
+								service providers like ON24, Talk Point, U-Stream and
+								LiveStream to broadcast the event out onto the web.
+								We can “encode on site” and stream the event directly
+								from our attached HD Control Room. Or we can
+								use our Dedicated HD Fiber Line to deliver the
+								video signal directly to any Content Delivery Network
+								that you request. 
+							</p>
+							<p> 
+								Live webcasts often include viewer interaction
+								through the use of real time e-mail Q & A.
+								The webcast team works at our back bench
+								to coordinate this portion of the event with
+								the talent in the studio.
+							</p>
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 

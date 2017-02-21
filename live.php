@@ -88,7 +88,39 @@
 						<h4 class="title">Live Shot Studio</h4>
 						<div class="block-content">
 
-							<p>This studio is 13&#39; wide by 17&#39; long with the lighting grid at 11&#39; and it is equipped with low heat KinoFlo instruments.</p>
+<p>
+    A Live Shot allows a guest in our studio
+    to interact LIVE with another person
+    at some distant location from Boston,
+    for example New York City or perhaps London.
+</p>
+ 
+<p>
+    Live Shots usually occur in High Definition
+    but can also be originated in Standard Def.
+    These events use just a single camera and
+    always happen in our Boston HD studio.
+    The studio is equipped with a single
+    Sony PDW-700 HD camera and the
+    “News Set” is permanently lit with
+    low heat KinFlo instruments.
+    This studio can be “Ready for Air”
+    in less than 1 minute.
+</p>
+
+<p>
+    Our PixMix HD FIBER FEED CIRCUIT # on
+    The SWITCH is called PixMix 11 (eleven)-Boston.
+    We can book this circuit for you or you can
+    contact The SWITCH directly at 212-227-9192.
+    Via e-mail their address is noc@theSWITCH.TV.
+</p>
+<p> 
+    To view our Live Shot Demo Video  just click here 
+    <div><a href="http://vimeo.com/38045945" title="PixMix Live Shot Demo Reel" target="_blank">PixMix Live Shot Demo</a></div>
+</p>						
+                            <!--
+                            <p>This studio is 13&#39; wide by 17&#39; long with the lighting grid at 11&#39; and it is equipped with low heat KinoFlo instruments.</p>
 
 							<p>This studio is primarily used for single camera &#39;News Hit&#39; live fiber shots. It has several dedicated Boston
 							  Skyline backgrounds for day and night and can easily accommodate two guests on set. If needed, a second camera can be quickly assigned to this space.</p>
@@ -120,16 +152,8 @@
                             <p>The PixMix FIBER FEED CIRCUIT number on The SWITCH is called PixMix-1<br /> (out of Boston).  To book this circuit please contact The SWITCH at 212-227-9191<br /> or via e-mail at noc@theSWITCH.TV</p>
 
                             <p>To view our Live Shot Video Demo just click <a href="/demos">here</a></p>
-
+                            -->
 						</div><!-- end of block-content -->
-                        <div class="content-left">
-                            <strong>You may also be interested in:</strong>
-                            <ul>
-                                <li><a href="http://vimeo.com/38045945" title="PixMix Live Shot Demo Reel" target="_blank">PixMix Live Shot Demo</a></li>
-                                <li><a href="/largestudio" title="PixMix Multi Camera Video Production Studio">Multi Camera Video Production Studio</a></li>
-                                <li><a href="/greenscreen" title="PixMix Green Screen Shooting">Green Screen Shooting</a></li>
-                            </ul>
-                        </div>
 					</div><!-- end of sidebar-block -->
 					<!-- end of sidebar-block -->
 				

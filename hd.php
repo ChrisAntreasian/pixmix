@@ -38,6 +38,7 @@
 							<div class="project-image">
 								<a href="http://vimeo.com/40609423" rel="lightbox[set1]" title="High Definition Demo"><span class="hovervideobig"></span>
 									<img src="images/assets/HDDemoStill.png" width="566" height="295" alt="High Definition Demo" title="HD Multi-Camera production featuring Yo Yo Ma during Harvard's 375th birthday" /></a><br />
+									<div class="mobile__video-caption">click image above for demo</div>
 									<p>Hover over image to play video</p>
 							</div><!-- end of project-image -->
 

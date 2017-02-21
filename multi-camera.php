@@ -36,7 +36,7 @@
 								<a href="http://vimeo.com/38032552" rel="lightbox[set1]" title="Multi-Camera Video"><span class="hovervideobig"></span>                                
 									<img src="images/assets/MulticamStill.png" width="566" height="295" alt="Multi-Camera Video" title="Multi-Camera coverage of President Obama for C-SPAN, during the 2008 Presidential Race" />
                                 </a>
-                                <br />
+                                <div class="mobile__video-caption">click image above for demo</div>
 								<p>Hover over image to play video</p>
 							</div><!-- end of project-image -->
 

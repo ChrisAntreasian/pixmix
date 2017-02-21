@@ -67,7 +67,7 @@
 					<div class="sidebar-block">
 						<h4 class="title">Webcasts</h4>
 						<div class="block-content">
-
+                            <!--
 							<p>Webcasting, similar to fiber feeds, often utilizes <a href="/multi-camera" target="PixMix Multi Camera Video Services">multiple cameras</a>. We work with the nation&#39;s leading service providers to enable high quality live-streamed web events.</p>
 
 						  <p>PixMix took webcasting into consideration<br />
@@ -87,15 +87,31 @@
 								back bench to coordinate this portion<br />
 								of the event with the talent<br />
 								in the studio.</p>
-
+                                -->
+                            <p>
+                            Webcasts are similar to Live Shots as they are
+                            generally LIVE events.  One major difference is 
+                            that webcasts typically utilize two or three cameras,
+                            and generally run about 60 minutes or more in length.
+                            </p>
+                            <p>
+                            PixMix works with the nation’s leading webcast
+                            service providers like ON24, Talk Point, U-Stream and 
+                            LiveStream to broadcast the event out onto the web.
+                            We can “encode on site” and stream the event directly
+                            from our attached HD Control Room.   Or we can
+                            use our Dedicated HD Fiber Line to deliver the 
+                            video signal directly to any Content Delivery Network 
+                            that you request. 
+                            </p>
+                            <p>
+                            Live webcasts often include viewer interaction
+                            through the use of real time e-mail Q & A.
+                            The webcast team works at our back bench
+                            to coordinate this portion of the event with
+                            the talent in the studio. 
+                            </p>
 						</div><!-- end of block-content -->
-                    	<div class="content-left">
-	                        <strong>You may also be interested in:</strong>
-							<ul>
-								<li><a href="/greenscreen" title="PixMix Green Screen Shooting">Green Screen Shooting</a></li>
-								<li><a href="/live" title="Single camera News Hit live fiber shots">Live Shot Studio</a></li>
-							</ul>
-						</div>
 					</div><!-- end of sidebar-block -->
 
 				</div><!-- end of sidebar-middle -->

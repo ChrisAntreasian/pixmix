@@ -3,12 +3,13 @@
         <div class="copyright">
             <div class="copyright-content">
                 <p>
-                    © PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-254-0590 <br />
+                    © PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-254-0590<br />
                     Studio Location  395 Western Ave, Boston (Brighton) MA 02134 <br />
                     Business Office  7 Cliff Road  Suite 201, Bellingham, MA 02019
                 </p>
                 <div class="copyright-content--mobile">
-                    <div>© PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-254-0590 </div>
+                    <div>© PixMix Video Services</div>
+                    <div>617-254-0590</div>
                     <div>Studio Location  395 Western Ave, Boston (Brighton) MA 02134 </div>
                     <div>Business Office  7 Cliff Road  Suite 201, Bellingham, MA 02019</div>  
                 </div>
