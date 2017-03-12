@@ -97,7 +97,18 @@
 						<div class="block-content">
                             <p>Located just 1.5 miles from Exit 18 / Route 495, our 25’ x 21’ MetroWest studio space was designed with the needs of the budget conscious producer in mind.</p>
                             <p>Featuring a lighting grid at 13’, 100 amps of electrical power, 3 cloth cycs (Black, Blue and Gray) on curtain tracks, plus full Air Conditioning (or Heat) this space is ideal for a wide variety of uses.</p>
-                            <p>Do you have a LARGE OBJECT you need to shoot ?  Not a problem at MetroWest.  Our studio features full Drive In Access!  And with our two 9’-6” doors, load in and load out is a breeze.</p>
+                            <p>
+                                <span class="mobile__body-img">
+                                    <img src="images/mobile/suv-in-studio.jpg" alt="SUV in Studio" />
+                                    <span class="mobile__body-caption">SUV in Studio</span>
+                                </span>
+                                Do you have a LARGE OBJECT you need to shoot ?  Not a problem at MetroWest.  Our studio features full Drive In Access!  
+                                <span class="mobile__body-img">
+                                    <img src="images/mobile/large-loading-doors.jpg" alt="Large Loading Doors" />
+                                    <span class="mobile__body-caption">Large Loading Doors</span>
+                                </span>
+                                And with our two 9’-6” doors, load in and load out is a breeze.
+                            </p>
                             <p>Because we are not located in the big city….our costs are much lower.  And we pass those savings on to YOU, with especially low daily rental rates.</p>
                             <p>So if you are working on a tight budget and need a studio space that is high on functionality and low on cost … why not give our PixMix MetoWest Studio a shot.</p>
                             <p>Call 617-254-0590 for rates and availability.</p>

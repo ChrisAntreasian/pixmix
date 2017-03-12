@@ -85,74 +85,40 @@
 				<span class="sidebar-top"></span><!-- end of sidebar-top -->
 				<div class="sidebar-middle">
 					<div class="sidebar-block">
-						<h4 class="title">Live Shot Studio</h4>
+						<h4 class="title">Live Shot</h4>
 						<div class="block-content">
+                            <p>
+                                A Live Shot allows a guest in our studio
+                                to interact LIVE with another person
+                                at some distant location from Boston,
+                                for example New York City or perhaps London.
+                            </p>
+                             
+                            <p>
+                                Live Shots usually occur in High Definition
+                                but can also be originated in Standard Def.
+                                These events use just a single camera and
+                                always happen in our Boston HD studio.
+                                <span class="no-wrap">The studio</span> is equipped with a single
+                                <span class="no-wrap">Sony PDW-700 HD camera</span> and the
+                                <span class="no-wrap">&ldquo;News Set&rdquo; is</span> permanently lit with
+                                <span class="no-wrap">low heat KinFlo instruments.</span>
+                                This studio can be &ldquo;Ready for Air&rdquo;
+                                in less than 1 minute.
+                            </p>
 
-<p>
-    A Live Shot allows a guest in our studio
-    to interact LIVE with another person
-    at some distant location from Boston,
-    for example New York City or perhaps London.
-</p>
- 
-<p>
-    Live Shots usually occur in High Definition
-    but can also be originated in Standard Def.
-    These events use just a single camera and
-    always happen in our Boston HD studio.
-    The studio is equipped with a single
-    Sony PDW-700 HD camera and the
-    “News Set” is permanently lit with
-    low heat KinFlo instruments.
-    This studio can be “Ready for Air”
-    in less than 1 minute.
-</p>
-
-<p>
-    Our PixMix HD FIBER FEED CIRCUIT # on
-    The SWITCH is called PixMix 11 (eleven)-Boston.
-    We can book this circuit for you or you can
-    contact The SWITCH directly at 212-227-9192.
-    Via e-mail their address is noc@theSWITCH.TV.
-</p>
-<p> 
-    To view our Live Shot Demo Video  just click here 
-    <div><a href="http://vimeo.com/38045945" title="PixMix Live Shot Demo Reel" target="_blank">PixMix Live Shot Demo</a></div>
-</p>						
-                            <!--
-                            <p>This studio is 13&#39; wide by 17&#39; long with the lighting grid at 11&#39; and it is equipped with low heat KinoFlo instruments.</p>
-
-							<p>This studio is primarily used for single camera &#39;News Hit&#39; live fiber shots. It has several dedicated Boston
-							  Skyline backgrounds for day and night and can easily accommodate two guests on set. If needed, a second camera can be quickly assigned to this space.</p>
-
-
-							<p>A fiber feed allows a guest in our studios to interact live with a host at a distant location. Whether
-								with one, two or three cameras, our technology infrastructure allows an extremely quick set-up time,
-								generally less than 10 minutes.</p>
-
-
-							<p>This space is equipped with a single <br />Sony D-70 HD camera and the &#39;News Set&#39; is permanently lit. This studio
-								can be &#39;Ready for Air&#39; in less than 1 minute.</p>
-
-							<p>PixMix prides itself with a growing list of<br />
-								national clients.  Among these are network<br />
-								and cable broadcasters like CNN, MSNBC,<br />
-								Fox TV, Bloomberg Television News,<br />
-								NewsHour on PBS, CNBC, C-Span and<br />
-								The Charlie Rose Show.</p>
-
-							<p>Our international clients include<br />
-								the BBC, CBC, EBU and China TV. In the<br />
-								Middle East we service networks like <br />
-								Al-Jazeera, Al-Arabiya and Alhurra.</p>
-
-							<p>We offer a sliding scale for fiber feeds with low rates for feeds occurring during weekdays between 8AM
-                               to 6PM. Please call for specific information on rates.</p>
-
-                            <p>The PixMix FIBER FEED CIRCUIT number on The SWITCH is called PixMix-1<br /> (out of Boston).  To book this circuit please contact The SWITCH at 212-227-9191<br /> or via e-mail at noc@theSWITCH.TV</p>
-
-                            <p>To view our Live Shot Video Demo just click <a href="/demos">here</a></p>
-                            -->
+                            <p>
+                                Our PixMix HD FIBER FEED CIRCUIT # on
+                                The SWITCH is called PixMix 11 (eleven)-Boston.
+                                We can book this circuit for you or you can
+                                contact The SWITCH directly at <span class="no-wrap">212-227-9192.</span>
+                                Via e-mail their address is <span class="no-wrap">noc@theSWITCH.TV.</span>
+                            </p>
+                            <p> 
+                                To view our Live Shot Demo Video  just click here 
+                                <div><a href="http://vimeo.com/38045945" title="PixMix Live Shot Demo Reel" target="_blank">PixMix Live Shot Demo</a></div>
+                            </p>						
+                          
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 					<!-- end of sidebar-block -->

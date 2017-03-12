@@ -60,29 +60,31 @@
 					<div class="sidebar-block">
 						<h4 class="title">Satellite Media Tours</h4>
 						<div class="block-content">
-
 							<p>
-								Webcasts are similar to Live Shots as they are
-								generally LIVE events.  One major difference is
-								that webcasts typically utilize two or three cameras,
-								and generally run about 60 minutes or more in length.
+								Satellite Media Tours are a variation of
+								Live Shots.  These tours can range
+								from a single guest and a single camera
+								up to four guests and three studio cameras.
+							</p>
+							<p>
+								SMT&rsquo;s are of a longer duration than a Live Shot,
+								or a Webcast... generally lasting from 
+								three to four or more hours in length.
 							</p>
 							<p> 
-								PixMix works with the nation’s leading webcast
-								service providers like ON24, Talk Point, U-Stream and
-								LiveStream to broadcast the event out onto the web.
-								We can “encode on site” and stream the event directly
-								from our attached HD Control Room. Or we can
-								use our Dedicated HD Fiber Line to deliver the
-								video signal directly to any Content Delivery Network
-								that you request. 
+								Satellite Media Tours are always delivered 
+								via satellite (hence the name) and are received
+								by a multitude of TV and Radio stations during the 
+								the time the event is <span class="no-wrap">&ldquo;on the bird&rdquo;.</span>
 							</p>
-							<p> 
-								Live webcasts often include viewer interaction
-								through the use of real time e-mail Q & A.
-								The webcast team works at our back bench
-								to coordinate this portion of the event with
-								the talent in the studio.
+							 <p>
+								One critical element of a successful
+								Satellite Media Tour is the coordination of 
+								the incoming IFB and PL audio sources.
+								Our PixMix HD Control Room is equipped 
+								with multiple telephone hybrids and
+								phone lines, making <span class="no-wrap">&ldquo;hop scotching&rdquo;</span> of the 
+								IFB and PL audio a seamless affair.
 							</p>
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->

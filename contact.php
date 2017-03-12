@@ -21,40 +21,57 @@
 			<?php include('./partials/top.php'); ?>
 		</div><!-- end of header-subpage -->
 
-
-		<div class="navbar">
-
-			<!--<ul class="contact-nav">
-				<li>Tel: 617.923.0102</li>
-			</ul>-->
-
-		</div><!-- end of navbar -->
-
 		<div id="main-content">
 			<div class="content-left">
-			<h2>Our Office</h2>
+				<h2>Our Office</h2>
 
-			<div class="block-content">
-				<ul class="address-sidebar">
-					<li><strong>Studio Location: </strong>395 Western Ave.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suites 112 and 113<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boston (Brighton section) MA  02134</li>
-					<li><strong>Main Number: </strong>617-254-0590</li>
-					<li><strong>Fiber Circuit Number: </strong>PixMix 11 (eleven) / Boston on The SWITCH</li>
-					<li><strong>Inbound IFB Number: </strong>617-254-0591</li>
-					<li><strong>Inbound PL Number: </strong>617-254-0592</li>
-					<li><strong>Control Room Trouble Line: </strong>617-254-0593</li>
-					<li><strong>Business Office: </strong>7 Cliff Road<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suite 201<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bellingham, MA  02019<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cell: </strong>617-901-7157<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Land Line: </strong>508-966-3648</li>
-				</ul>
-
-			</div>
-
-				<h2>Our Location</h2>
-				<p>
-					<strong>PixMix Video Services</strong> is located at 395 Western Ave.  Boston - (Brighton section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
-				</p>
-
-				<h2>SEND US AN EMAIL</h2>
-				<!-- Contact Form -->
-					<div id="contact">
+				<div class="block-content">
+					<div class="address-sidebar">
+						<div>
+							<h4>Studio Location</h4>
+							<div>395 Western Ave.</div>
+							<div>Suites 112 and 113</div>
+							<div>Boston (Brighton section) MA  02134</div>
+						</div>
+						<div>
+							<h4>Main Business Number</h4>
+							<div>617-254-0590</div>
+						</div>
+						<div>
+							<h4>Fiber Circuit Number</h4>
+							<div>PixMix 11 (eleven) / Boston</div>
+							<div>on The SWITCH</div>
+						</div>
+						<div>
+							<h4>Inbound IFB Number</h4>
+							<div>617-254-0591</div>
+						</div>
+						<div>
+							<h4>Inbound PL Number</h4>
+							<div>617-254-0592</div>
+						</div>
+						<div>
+							<h4>Control Room Trouble Number</h4>
+							<div>617-254-0593</div>
+						 </div>
+						<div>
+							<h4>Business Office</h4>
+							<div>7 Cliff Road   Suite 201</div>
+							<div>Bellingham, MA  02019</div>
+							<div><strong>Cell</strong>  617-901-7157</div>
+							<div><strong>Land Line</strong>  508-966-3648</div>
+						</div>
+					</div>
+					<div>
+						<h2>Our Location</h2>
+						<p>
+							<strong>PixMix Video Services</strong> is located at 395 Western Ave.  Boston - (Brighton section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+						</p>
+					</div>
+					<div>
+						<h2>SEND US AN EMAIL</h2>
+						<!-- Contact Form -->
+						<div id="contact">
 				            <div id="message"></div>
 				            <form method="post" action="submit-contact" name="contactform" id="contactform">
 				            <fieldset>
@@ -90,12 +107,12 @@
 
 				            </fieldset>
 				            </form>
-					</div><!--  End of contact form  -->
+						</div><!--  End of contact form  -->
 
-			</div><!-- end of content-left -->
-
-
-
+					</div>
+				</div><!-- end of content-left -->
+			</div>
+			
 			<div id="sidebar">
 				<span class="sidebar-top"></span><!-- end of sidebar-top -->
 				<div class="sidebar-middle">
