@@ -116,7 +116,6 @@
                         <div class="content-left">
                             <strong>You may also be interested in:</strong>
                             <ul>
-                                <li><a href="http://vimeo.com/38045945" title="PixMix Live Shot Demo Reel" target="_blank">PixMix Live Shot Demo</a></li>
                                 <li><a href="http://vimeo.com/38032552" title="PixMix Multi Camera Demo" target="_blank">Multi Camera Demo</a></li>
                                 <li><a href="http://vimeo.com/38036504" title="PixMix Single Camera Demo" target="_blank">Single Camera Demo</a></li>
                                 <li><a href="http://vimeo.com/40609423" title="PixMix HD Demo" target="_blank">HD Demo</a></li>

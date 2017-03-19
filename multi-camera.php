@@ -44,13 +44,19 @@
 								<h3>Multi-Camera Services</h3>
 								<div class="hline"></div>
 
-								<p>PixMix&#39;s specialty is multi-camera production. Our principals have developed, over many years, a
+								<p>
+									PixMix&#39;s specialty is multi-camera production. Our principals have developed, over many years, a
 									highly effective approach to providing this &quot;studio-on-location&quot; production service. Rapid setup, high
 									quality pictures and an engaging style are the basics of our multi-camera service. <b>Component, SDI,
 									and HDSDI</b> video paths from source to record, for both presentation and broadcast, result in superior
 									picture quality. Full bandwidth <b>composite, SDI, and HDSDI</b> outputs are also available for transmission
 									or web-streaming. Our selection of equipment and approach are customized for each event, so every
-									production has a uniquely tailored quality that will hold your audiences&nbsp; attention.</p>
+									production has a uniquely tailored quality that will hold your audiences&nbsp; attention.
+									<span class="mobile__body-img">
+	                                    <img src="images/mobile/hd-master-shot.jpg" alt="4 camera HD master shot" />
+	                                </span>
+								</p>
+								
 								<div class="content-left">
                                 	<strong>Our Top-of-the-Line High Definition Fly-pack:</strong>
                                     <ul>
