@@ -38,7 +38,8 @@
     .no-wrap {
         white-space: wrap;
     }
-    .mobile__hidden {
+    .mobile__hidden,
+    #sidebar span.sidebar-bottom {
         display: none;
     }
     .mobile__body-img {
@@ -85,7 +86,16 @@
     }
     .content-left ul li {
         list-style: none;
+        padding-bottom: 4px;
     }
+    .content-left ul li:last-of-type {
+        padding-bottom: 0;
+    }
+    .content-left strong {
+        margin-bottom: 12px;
+        display: block;
+    }
+
     /****** Header ******/
     
     #wrapper {
