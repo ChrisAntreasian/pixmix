@@ -26,6 +26,29 @@
 
 </head>
 <body id="subpage">
+    <div id="preloader">
+        <img src="images/presspasses/LorettaLynch.png" width="1" height="1" />
+        <img src="images/presspasses/DalaiV2.png"" width="1" height="1" />
+        <img src="images/presspasses/ProfilesCompV2.png" width="1" height="1" />
+        <img src="images/presspasses/RepublicanV5.png" width="1" height="1" />
+        <img src="images/presspasses/RomneyCompV2.png" width="1" height="1" />
+        <img src="images/presspasses/Gingrich Press PassCompV2.png" width="1" height="1" />
+        <img src="images/presspasses/pp969.png" width="1" height="1" />
+        <img src="images/presspasses/ppabiz.png" width="1" height="1" />
+        <img src="images/presspasses/ppbrown.png" width="1" height="1" />
+        <img src="images/presspasses/ppcheney.png" width="1" height="1" />
+        <img src="images/presspasses/ppdemconv.png" width="1" height="1" />
+        <img src="images/presspasses/ppfirstlady.png" width="1" height="1" />
+        <img src="images/presspasses/ppharvardgrad.png" width="1" height="1" />
+        <img src="images/presspasses/pphillary.png" width="1" height="1" />
+        <img src="images/presspasses/pphillary2.png" width="1" height="1" />
+        <img src="images/presspasses/ppkhatami.png" width="1" height="1" />
+        <img src="images/presspasses/ppmccain.png" width="1" height="1" />
+        <img src="images/presspasses/ppdemconv.png" width="1" height="1" />
+        <img src="images/presspasses/ppperlosi.png" width="1" height="1" />
+        <img src="images/presspasses/pppresbush.png" width="1" height="1" />
+        <img src="images/presspasses/pppride.png" width="1" height="1" />
+    </div>
 	<div id="wrapper">
 		<div id="header-subpage">
 			<?php include('./partials/top.php'); ?>
@@ -42,9 +65,10 @@
 
                 <div id="thumbs2">
 
-                <ul>  
-                   	
-                    <li> <a rel="images/presspasses/DLamaButton.png" href="images/presspasses/DalaiV2.png">
+                <ul>
+                    <li> <a rel="images/presspasses/lorettabutton.png" href="images/presspasses/LorettaLynch.png">
+                        <img src="images/presspasses/lorettabutton.png" alt="Loretta Lynch" title="Signature HD Flypack System documenting Loretta Lynch for C-Span" /> </a></li>  
+                        <li> <a rel="images/presspasses/DLamaButton.png" href="images/presspasses/DalaiV2.png">
                 		<img src="images/presspasses/DLamaButton.png" alt="the Dali Lama" title="Signature HD Flypack System documenting his Holiness the Dalai Lama's 2014 Conference in Boston" /></a></li>
                         <li> <a rel="images/presspasses/ProfilesButton.png" href="images/presspasses/ProfilesCompV2.png">
                 		<img src="images/presspasses/ProfilesButton.png" alt="Profiles in Courage" title="Single HD Camera documenting Profiles In Courage Awards for C-Span" /></a></li>
@@ -52,12 +76,13 @@
                 		<img src="images/presspasses/RepuButton.png" alt="republican RNC meeting" title="2 Camera HD Flypack C-Span for National Republican Party" /></a></li>
                           <li><a rel="images/presspasses/RomneyRyanButton.png" href="images/presspasses/RomneyCompV2.png">
                 		<img src="images/presspasses/RomneyRyanButton.png" alt="Romney Campaign" title="2 Camera HD Flypack documenting 100th Town Hall Meeting Romney Campaign 2012" /></a></li>
-                         <li><a rel="images/presspasses/GingrichButton.png" href="images/presspasses/Gingrich Press PassCompV2.png">
-                		<img src="images/presspasses/GingrichButton.png" alt="Gingrich Button" title="2 camera flypack debate between Gringrich and Huntsman 2011" /></a></li>
+                        
                     
                 </ul>
 
                 <ul>
+                     <li><a rel="images/presspasses/GingrichButton.png" href="images/presspasses/Gingrich Press PassCompV2.png">
+                        <img src="images/presspasses/GingrichButton.png" alt="Gingrich Button" title="2 camera flypack debate between Gringrich and Huntsman 2011" /></a></li>
                     <li><a rel="images/presspasses/pp969_sm.png" href="images/presspasses/pp969.png">
                 		<img src="images/presspasses/pp969_sm.png" alt="WTKK" title="3 camera Multi-camera event with Bill O'Reilly for 96.9 FM Talk Boston" /></a></li>
                     <li> <a rel="images/presspasses/ppabiz_sm.png" href="images/presspasses/ppabiz.png">
@@ -66,10 +91,11 @@
                 		<img src="images/presspasses/ppbrown_sm.png" alt="Presidential Library" title="Coverage of Prime Minster Gordon Brown from the J.F.K. Presidential Library for C-SPAN" /></a></li>
                    	<li> <a rel="images/presspasses/ppcheney_sm.png" href="images/presspasses/ppcheney.png">
                 		<img src="images/presspasses/ppcheney_sm.png" alt="Dick Cheney" title="Single camera shoot for C-SPAN covering a fundraising event in NH" /></a></li>
-                    <li> <a rel="images/presspasses/ppdemconv_sm.png" href="images/presspasses/ppdemconv.png">
-                		<img src="images/presspasses/ppdemconv_sm.png" alt="Democratic National Convention" title="Complete Multi-Camera package provided for NY1 News 1 for the 2004 National Democratic Convention in Boston" /></a></li>
+                   
                 </ul>
                 <ul>
+                 <li> <a rel="images/presspasses/ppdemconv_sm.png" href="images/presspasses/ppdemconv.png">
+                        <img src="images/presspasses/ppdemconv_sm.png" alt="Democratic National Convention" title="Complete Multi-Camera package provided for NY1 News 1 for the 2004 National Democratic Convention in Boston" /></a></li>
                     <li> <a rel="images/presspasses/ppfirstlady_sm.png" href="images/presspasses/ppfirstlady.png">
                 		<img src="images/presspasses/ppfirstlady_sm.png" alt="First Lady" title="The 2006 Comment Address at Roger Williams University by First Lady Laura Bush for C-SPAN" /></a></li>
                     <li> <a rel="images/presspasses/ppharvardgrad_sm.png" href="images/presspasses/ppharvardgrad.png">
@@ -78,10 +104,11 @@
                 		<img src="images/presspasses/pphillary_sm.png" alt="Hillary Clinton" title="Senator Hillary Rodham Clintons' 2006 speech in Meehan Auditorium at Brown University" /></a></li>
                    	<li> <a rel="images/presspasses/pphillary2_sm.png" href="images/presspasses/pphillary2.png">
                 		<img src="images/presspasses/pphillary2_sm.png" alt="Hillary Clinton" title="Presidential candidate Senator Hillary Rodham Clinton addresses students at Wellesley College" /></a></li>
-                    <li> <a rel="images/presspasses/ppkhatami_sm.png" href="images/presspasses/ppkhatami.png">
-                		<img src="images/presspasses/ppkhatami_sm.png" alt="Institute Of Politics" title="Allied Force  US Military Commander General Abizaid at Harvard's J.F.K. School of Government" /></a></li>
+                    
                 </ul>
                 <ul>
+                    <li> <a rel="images/presspasses/ppkhatami_sm.png" href="images/presspasses/ppkhatami.png">
+                        <img src="images/presspasses/ppkhatami_sm.png" alt="Institute Of Politics" title="Allied Force  US Military Commander General Abizaid at Harvard's J.F.K. School of Government" /></a></li>
                     <li><a rel="images/presspasses/ppmccain_sm.png" href="images/presspasses/ppmccain.png">
                 		<img src="images/presspasses/ppmccain_sm.png" alt="Senator McCain" title="48 Hours before election day 2008 Republican John McCain in NH live 2 camera flypack for C-SPAN" /></a></li>
                     <li> <a rel="images/presspasses/ppperlosi_sm.png" href="images/presspasses/ppperlosi.png">

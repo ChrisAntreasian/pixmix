@@ -1,4 +1,5 @@
 <link type="text/css" rel="stylesheet" href="css/layout.css" />
+<link type="text/css" rel="stylesheet" href="css/imageloading.css" />
 <link type="text/css" rel="stylesheet" href="css/buttons-pagination.css" />
 <link type="text/css" rel="stylesheet" href="css/blue.css" />
 <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css" media="screen" />
