@@ -34,7 +34,6 @@
 
         $('#thumbs2 a').click(function(e) {
             e.preventDefault();
-            console.log('im clicked')
         });
     });
 
