@@ -68,6 +68,12 @@
                 <ul>
                     <li> <a rel="images/presspasses/lorettabutton.png" href="images/presspasses/LorettaLynch.png">
                     <img src="images/presspasses/lorettabutton.png" alt="Loretta Lynch" title="Signature HD Flypack System documenting Loretta Lynch for C-Span" /> </a></li>  
+                    
+                    <li> <a rel="images/presspasses/harvardsmall.jpg" href="images/presspasses/harvardpp.jpg">
+                    <img src="images/presspasses/harvardsmall.jpg" alt="2016 Harvard Graduation" title="Signature HD Flypack System documenting the 2016 Harvard Graduation" /></a></li>
+
+                    <li> <a rel="images/presspasses/tedkennedyppthumb.jpg" href="images/presspasses/tedkennedyppv2.jpg">
+                    <img src="images/presspasses/tedkennedyppthumb.jpg" alt="Ted Kennedy institute" title="3 Camera HD Flyback for Ted Kennedy Institute" /></a></li>
 
                     <li> <a rel="images/presspasses/DLamaButton.png" href="images/presspasses/DalaiV2.png">
                     <img src="images/presspasses/DLamaButton.png" alt="the Dali Lama" title="Signature HD Flypack System documenting his Holiness the Dalai Lama's 2014 Conference in Boston" /></a></li>
@@ -75,19 +81,15 @@
                     <li> <a rel="images/presspasses/ProfilesButton.png" href="images/presspasses/ProfilesCompV2.png">
                     <img src="images/presspasses/ProfilesButton.png" alt="Profiles in Courage" title="Single HD Camera documenting Profiles In Courage Awards for C-Span" /></a></li>
 
-                    <li> <a rel="images/presspasses/RepuButton.png" href="images/presspasses/RepublicanV5.png">
+                    
+                </ul>
+
+                <ul>
+                   <li> <a rel="images/presspasses/RepuButton.png" href="images/presspasses/RepublicanV5.png">
                     <img src="images/presspasses/RepuButton.png" alt="republican RNC meeting" title="2 Camera HD Flypack C-Span for National Republican Party" /></a></li>
 
                     <li><a rel="images/presspasses/RomneyRyanButton.png" href="images/presspasses/RomneyCompV2.png">
                     <img src="images/presspasses/RomneyRyanButton.png" alt="Romney Campaign" title="2 Camera HD Flypack documenting 100th Town Hall Meeting Romney Campaign 2012" /></a></li>
-                </ul>
-
-                <ul>
-                   <li> <a rel="images/presspasses/harvardsmall.jpg" href="images/presspasses/harvardpp.jpg">
-                   <img src="images/presspasses/harvardsmall.jpg" alt="2016 Harvard Graduation" title="Signature HD Flypack System documenting the 2016 Harvard Graduation" /></a></li>
-
-                    <li> <a rel="images/presspasses/tedkennedyppthumb.jpg" href="images/presspasses/tedkennedyppv2.jpg">
-                    <img src="images/presspasses/tedkennedyppthumb.jpg" alt="Ted Kennedy institute" title="3 Camera HD Flyback for Ted Kennedy Institute" /></a></li>
 
                     <li><a rel="images/presspasses/GingrichButton.png" href="images/presspasses/Gingrich Press PassCompV2.png">
                 	<img src="images/presspasses/GingrichButton.png" alt="Gingrich Button" title="2 camera flypack debate between Gringrich and Huntsman 2011" /></a></li>
@@ -117,6 +119,10 @@
                 </ul>
 
                 <ul>
+
+                    <li> <a rel="images/presspasses/pphillary2_sm.png" href="images/presspasses/pphillary2.png">
+                    <img src="images/presspasses/pphillary2_sm.png" alt="Hillary Clinton"></a></li>
+
                     <li> <a rel="images/presspasses/pphillary_sm.png" href="images/presspasses/pphillary.png">
                 	<img src="images/presspasses/pphillary_sm.png" alt="Hillary Clinton" title="Senator Hillary Rodham Clintons' 2006 speech in Meehan Auditorium at Brown University" /></a></li>
 
@@ -129,12 +135,13 @@
                     <li> <a rel="images/presspasses/ppperlosi_sm.png" href="images/presspasses/ppperlosi.png">
                 	<img src="images/presspasses/ppperlosi_sm.png" alt="Pelosi" title="Single camera shoot of Nancy Pelosi speaking on Healthcare Reform from The John F. Kennedy School of Government" /></a></li>
                     
-                    <li> <a rel="images/presspasses/pppresbush_sm.png" href="images/presspasses/pppresbush.png">
-                	<img src="images/presspasses/pppresbush_sm.png" alt="George Bush" title="Footage sent immediately to Washington, DC for C-SPAN of an October 2004 NH campaign speech from President George W. Bush" /></a></li>
+                   
                 </ul>
 
                 <ul>
-
+                    <li> <a rel="images/presspasses/pppresbush_sm.png" href="images/presspasses/pppresbush.png">
+                    <img src="images/presspasses/pppresbush_sm.png" alt="George Bush" title="Footage sent immediately to Washington, DC for C-SPAN of an October 2004 NH campaign speech from President George W. Bush" /></a></li>
+                    
                     <li> <a rel="images/presspasses/pppride_sm.png" href="images/presspasses/pppride.png">
             		<img src="images/presspasses/pppride_sm.png" alt="Pride" title="6 man crew covers the 2005 Boston Gay Pride Parade for the Q Network" /></a></li>
                 </ul>
