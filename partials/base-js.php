@@ -30,7 +30,12 @@
             }
             $(this).siblings('.m-home__secondary').addClass('active');
             $(this).addClass('active');
+        });
 
+        $('#thumbs2 a').click(function(e) {
+            e.preventDefault();
+            console.log('im clicked')
         });
     });
+
 </script>
