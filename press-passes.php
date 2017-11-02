@@ -48,6 +48,8 @@
         <img src="images/presspasses/ppperlosi.png" width="1" height="1" />
         <img src="images/presspasses/pppresbush.png" width="1" height="1" />
         <img src="images/presspasses/pppride.png" width="1" height="1" />
+        <img src="images/presspasses/harvardsmall.jpg" width="1" height="1" />
+
     </div>
 	<div id="wrapper">
 		<div id="header-subpage">
