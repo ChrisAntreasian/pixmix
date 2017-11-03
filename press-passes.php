@@ -26,6 +26,7 @@
 
 </head>
 <body id="subpage">
+
     <div id="preloader">
         <img src="images/presspasses/LorettaLynch.png" width="1" height="1" />
         <img src="images/presspasses/DalaiV2.png" width="1" height="1" />
@@ -49,8 +50,9 @@
         <img src="images/presspasses/pppresbush.png" width="1" height="1" />
         <img src="images/presspasses/pppride.png" width="1" height="1" />
         <img src="images/presspasses/harvardpp.jpg" width="1" height="1" />
-
+        <img src="mages/presspasses/tedkennedyppv2.jpg" width="1" height="1" />
     </div>
+
 	<div id="wrapper">
 		<div id="header-subpage">
 			<?php include('./partials/top.php'); ?>
