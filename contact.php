@@ -29,9 +29,9 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>395 Western Ave.</div>
-							<div>Suites 112 and 113</div>
-							<div>Boston (Brighton section) MA  02134</div>
+							<div>300 Western Ave. (Century Bank Building)</div>
+							<div>Suite B-110  Lower Level</div>
+							<div>Boston (Allston section) MA  02134</div>
 						</div>
 						<div>
 							<h4>Main Business Number</h4>
@@ -65,7 +65,7 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 395 Western Ave.  Boston - (Brighton section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
 						</p>
 					</div>
 					<div>
