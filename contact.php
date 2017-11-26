@@ -39,8 +39,8 @@
 						</div>
 						<div>
 							<h4>Fiber Circuit Number</h4>
-							<div>PixMix 11 (eleven) / Boston</div>
-							<div>on The SWITCH</div>
+							<div>Our Outbound (SEND) circuit # is <strong>PIXM-BOS-E1</strong> </div>
+							<div>Our Inbound (RECEIVE) circuit # is <strong>PIXM-BOS-D1</strong> </div>
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
@@ -65,7 +65,7 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1 mile from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
 						</p>
 					</div>
 					<div>
