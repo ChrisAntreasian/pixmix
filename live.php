@@ -107,12 +107,11 @@
                                 in less than 1 minute.
                             </p>
 
-                            <p>
-                                Our PixMix HD FIBER FEED CIRCUIT # on
-                                The SWITCH is called PixMix 11 (eleven)-Boston.
+                            <p>PixMix is on the LTN Network<br/>
+                                Our HD FIBER FEED CIRCUIT NUMBER is <span class="no-wrap">PIXM-BOS-E1.</span>
                                 We can book this circuit for you or you can
-                                contact The SWITCH directly at <span class="no-wrap">212-227-9192.</span>
-                                Via e-mail their address is <span class="no-wrap">noc@theSWITCH.TV.</span>
+                                contact LTN TVOC directly at <span class="no-wrap">240-855-0004</span>
+                                or via Email at <span class="no-wrap">support@LTNGlobal.com.</span>
                             </p>
                             <p> 
                                 To view our Live Shot Demo Video  just click here 

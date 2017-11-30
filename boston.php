@@ -105,8 +105,8 @@
                             <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p> 
                             <p>To book the studio for a live shot or for a multi-camera production please call <br />617-254-0590 for rates and availability.</p>
                             <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
-                            <p>___________</p>
-                            <p>PixMix can book this circuit for you… or you can book it yourself by contacting LTN Network is called ___________</p>
+                            <p>PIXM-BOS-E1</p>
+                            <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>
 						</div><!-- end of block-content -->
                         <div class="content-left">
                             <strong>You may also be interested in:</strong>

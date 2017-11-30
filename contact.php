@@ -38,6 +38,7 @@
 							<div>617-254-0590</div>
 						</div>
 						<div>
+						<h4><strong>PixMix is on the LTN Network</strong></h4>
 							<h4>Fiber Circuit Number</h4>
 							<div>Our Outbound (SEND) circuit # is <strong>PIXM-BOS-E1</strong> </div>
 							<div>Our Inbound (RECEIVE) circuit # is <strong>PIXM-BOS-D1</strong> </div>
@@ -53,7 +54,7 @@
 						<div>
 							<h4>Control Room Trouble Number</h4>
 							<div>617-254-0593</div>
-						 </div>
+						 </div>		 
 						<div>
 							<h4>Business Office</h4>
 							<div>7 Cliff Road   Suite 201</div>
