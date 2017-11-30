@@ -107,7 +107,7 @@
                                 in less than 1 minute.
                             </p>
 
-                            <p>PixMix is on the LTN Network<br/>
+                            <p>PixMix is on the LTN Network.<br/>
                                 Our HD FIBER FEED CIRCUIT NUMBER is <span class="no-wrap">PIXM-BOS-E1.</span>
                                 We can book this circuit for you or you can
                                 contact LTN TVOC directly at <span class="no-wrap">240-855-0004</span>
