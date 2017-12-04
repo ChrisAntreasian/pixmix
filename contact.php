@@ -38,9 +38,10 @@
 							<div>617-254-0590</div>
 						</div>
 						<div>
+						<h4><strong>PixMix is on the LTN Network</strong></h4>
 							<h4>Fiber Circuit Number</h4>
-							<div>PixMix 11 (eleven) / Boston</div>
-							<div>on The SWITCH</div>
+							<div>Our Outbound (SEND) circuit # is <strong>PIXM-BOS-E1</strong> </div>
+							<div>Our Inbound (RECEIVE) circuit # is <strong>PIXM-BOS-D1</strong> </div>
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
@@ -53,7 +54,7 @@
 						<div>
 							<h4>Control Room Trouble Number</h4>
 							<div>617-254-0593</div>
-						 </div>
+						 </div>		 
 						<div>
 							<h4>Business Office</h4>
 							<div>7 Cliff Road   Suite 201</div>
@@ -65,7 +66,7 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1.5 miles from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1 mile from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
 						</p>
 					</div>
 					<div>
@@ -122,7 +123,7 @@
 						<div class="block-content">
 							<div class="map-holder">
 								<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14'></script><div style='overflow:hidden;height:255px;width:255px;'><div id='gmap_canvas' style='height:255px;width:255px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://embedmap.org/'>adding google maps to my website</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7e95c8a129e49d730b467665a17b060c57b4cc7e'></script><script type='text/javascript'>
-									function init_map(){var myOptions = {mapTypeControl: false, zoom:15,center:new google.maps.LatLng(42.3630621,-71.1395215),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.3630621,-71.1395215)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br>395 Western Ave<br> Boston<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
+									function init_map(){var myOptions = {mapTypeControl: false, zoom:15,center:new google.maps.LatLng(42.3629082,-71.1350697),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.3629082,-71.1350697)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br>300 Western Ave<br> Boston<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
 								</script>
 								<small>
 									<a target="_blank" href="https://www.google.com/maps/place/395+Western+Ave,+Brighton,+MA+02135/@42.3630621,-71.1417102,17z" style="color:#0000FF;text-align:left;padding-top:12px;display:block;">View Larger Map</a>
