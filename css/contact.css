@@ -1,0 +1,14 @@
+.western {
+	padding-top: 20px;
+}
+.western li {
+	padding-bottom: 10px;
+}
+.western img {
+	width: 100%;
+}
+a[href="https://embedmap.org/"] {
+	visibility: hidden;
+	position:fixed;
+	right: -1000px;
+}
