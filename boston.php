@@ -5,10 +5,10 @@
     <meta name="description" content="Covering All The Angles. Nothing slips through the cracks at PixMix, click to read more." />
     <meta name="keywords" content="PixMix Video Services, PixMix, economy studio, boston, live shot, live shot boston, live shot studio boston, fiber feed, fiber feed boston, live shot studio, live shot studio boston, news feed, news feed boston, news feed studio, news feed studio boston, insert studio, insert studio boston, video transmission, video transmission boston, live broadcast studio, live broadcast studio boston" />
 
-    <?php include('./partials/base-metadata.php'); ?>    
-    <?php include('./partials/base-css.php'); ?>    
+    <?php include('./partials/base-metadata.php'); ?>
+    <?php include('./partials/base-css.php'); ?>
     <?php include('./partials/base-js.php'); ?>
-    
+
     <!-- Css -->
 	<link type="text/css" rel="stylesheet" href="css/Combiner-gallery7.css">
 
@@ -16,7 +16,7 @@
 	<script type="text/javascript" src="js/jquery.pikachoose.js"></script>
 	<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
 	<script type="text/javascript" src="js/tiptip.js"></script>
-	
+
     <script type="text/javascript" charset="utf-8">
 		$(document).ready(
 			function (){
@@ -74,6 +74,18 @@
                                 <img src="images/boston/web-cast.jpg" alt="Actual ScreenShot from UBM / RAPID 7 webcast" title="Actual ScreenShot from UBM / RAPID 7 webcast" />
                             </a>
                         </li>
+                        <li>
+                            <a rel="images/boston/webcast-desk.jpg" href="images/boston/webcast-desk.jpg">
+                                <img src="images/boston/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
+                            </a>
+                        </li>
+                      </ul>
+                        <ul class="col-3">
+                        <li>
+                            <a rel="images/boston/studio-set.jpg" href="images/boston/studio-set.jpg">
+                                <img src="images/boston/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
+                            </a>
+                        </li>
                     </ul>
                 </div>
 			</div><!-- end of content-left -->
@@ -102,7 +114,7 @@
                                 </span>
                             </p>
                             <p>Adjacent to the studio is our Multi-Camera Control Room.  The front bench area is arranged like a traditional TV Control Room with seating for Director, Audio Engineer, Video Engineer and Prompter/Chyron operator.</p>
-                            <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p> 
+                            <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p>
                             <p>To book the studio for a live shot or for a multi-camera production please call <br />617-254-0590 for rates and availability.</p>
                             <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
                             <p>PIXM-BOS-E1</p>
@@ -119,7 +131,7 @@
                         </div>
 					</div><!-- end of sidebar-block -->
 					<!-- end of sidebar-block -->
-				
+
                 </div><!-- end of sidebar-middle -->
 				<span class="sidebar-bottom"></span>
 			</div><!-- end of sidebar -->
