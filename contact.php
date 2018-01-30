@@ -5,6 +5,8 @@
     <meta name="description" content="Covering All The Angles. Nothing slips through the cracks at PixMix, click to read more." />
     <meta name="keywords" content="PixMix Video Services, PixMix, video, videotaping, video productions company, video production, customized video production, video production studio, live video production, video production services, webcasting, live event production, event video production, corporate video production, news video production, mobile production, production studios boston, watertown, boston, massachusetts, new england, Ray Boyer" />
 	
+	<link rel="stylesheet" type="text/css" href="css/contact.css">
+	
 	<?php include('./partials/base-metadata.php'); ?>    
     <?php include('./partials/base-css.php'); ?>    
     <?php include('./partials/base-js.php'); ?>
@@ -126,9 +128,23 @@
 									function init_map(){var myOptions = {mapTypeControl: false, zoom:15,center:new google.maps.LatLng(42.3629082,-71.1350697),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.3629082,-71.1350697)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br>300 Western Ave<br> Boston<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
 								</script>
 								<small>
-									<a target="_blank" href="https://www.google.com/maps/place/395+Western+Ave,+Brighton,+MA+02135/@42.3630621,-71.1417102,17z" style="color:#0000FF;text-align:left;padding-top:12px;display:block;">View Larger Map</a>
+									<a target="_blank" href="https://www.google.com/maps/place/300+Western+Ave,+Brighton,+MA+02135/@42.3630621,-71.1417102,17z" style="color:#0000FF;text-align:left;padding-top:12px;display:block;">View Larger Map</a>
 								</small>
 							</div>
+							<ul class="western">
+						        <li>
+						       		<img src="images/contact/300-western1.jpg" />
+						       		<p>Pixmix is located at 300 Western Ave (Use Century Bank as a landmark)</p>
+						       	</li>
+						       	<li>
+							        <img src="images/contact/300-western2.jpg" />
+							        <p>This sign is directly in front of 300 Western Ave</p>
+							    </li>
+								<li>
+									<img src="images/contact/300-western3.jpg" />	
+									<p>The door on the LEFT leads to PixMix offices which are located on the LOWER LEVEL</p>
+								</li>
+							</ul>
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 
