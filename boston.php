@@ -74,6 +74,28 @@
                                 <img src="images/boston/web-cast.jpg" alt="Actual ScreenShot from UBM / RAPID 7 webcast" title="Actual ScreenShot from UBM / RAPID 7 webcast" />
                             </a>
                         </li>
+                        <li>
+                            <a rel="images/boston/webcast-desk.jpg" href="images/boston/webcast-desk.jpg">
+                                <img src="images/boston/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
+                            </a>
+                        </li>
+                      </ul>
+                        <ul class="col-3">
+                        <li>
+                            <a rel="images/boston/studio-set.jpg" href="images/boston/studio-set.jpg">
+                                <img src="images/boston/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/boston/doctor-patient.jpg" href="images/boston/doctor-patient.jpg">
+                                <img src="images/boston/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/boston/green-room.jpg" href="images/boston/green-room.jpg">
+                                <img src="images/boston/green-room.jpg" alt="Green Room Space including Make-up area" title="Green Room Space including Make-up area" />
+                            </a>
+                        </li>
                     </ul>
                       <ul class="col-3">
                           <li>
