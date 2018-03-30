@@ -96,6 +96,7 @@
                                 <img src="images/boston/green-room.jpg" alt="Green Room Space including Make-up area" title="Green Room Space including Make-up area" />
                             </a>
                         </li>
+
                     </ul>
                       <ul class="col-3">
                           <li>
