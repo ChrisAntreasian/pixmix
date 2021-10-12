@@ -41,15 +41,15 @@
 			<div class="content-left content-left--gallery">
 				<h2>&nbsp;</h2>
 
-                <div id="bigpic2"><img src="images/boston/PixMix-300-Floorplan.jpg" alt="AARP" />
+                <div id="bigpic2"><img src="images/boston/PixMix-Floorplan-randolph.jpg" alt="AARP" />
                 	<p id="desc">Move your mouse over the images below to view here...</p>
                 </div>
 
                 <div id="thumbs2">
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/PixMix-300-Floorplan.jpg" href="images/boston/PixMix-300-Floorplan.jpg">
-                                <img src="images/boston/PixMix-300-Floorplan.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            <a rel="images/boston/PixMix-Floorplan-randolph.jpg" href="images/boston/PixMix-floorplan-randolph.jpg">
+                                <img src="images/boston/PixMix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
@@ -114,8 +114,8 @@
                         <h4 class="title">HD Studio</h4>
                         <div class="block-content">
                             <p>
-                                The PixMix Boston studio facility is <br />
-                                20’ x 24’ and is equipped with low heat <br />
+                                The PixMix Randolph studio facility is <br />
+                                22’ x 22’ and is equipped with low heat <br />
                                 KinoFlo lighting instruments.
                                  <span class="mobile__body-img">
                                     <img src="images/mobile/doctors-prepare-for-web-cast.jpg" alt="Doctors prepare for a LIVE webcast" />
@@ -129,10 +129,9 @@
                                     <img src="images/mobile/hd-control-room.jpg" alt="HD controll room" />
                                     <span class="mobile__body-caption">Front Bench of our HD Control Room</span>
                                 </span>
-                            </p>
-                            <p>Adjacent to the studio is our Multi-Camera Control Room.  The front bench area is arranged like a traditional TV Control Room with seating for Director, Audio Engineer, Video Engineer and Prompter/Chyron operator.</p>
-                            <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p>
-                            <p>To book the studio for a live shot or for a multi-camera production please call <br />617-254-0590 for rates and availability.</p>
+                            <p>Our Green Room is convenient to the studio and has a small separate make-up / dressing room.  The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby and elevators. The oversized lobby can be used as an additional “holding area” for larger productions.</p>
+                            <p>Adjacent to the studio is our Multi-Camera Control Room. We control all the video signals from this area.</p>
+                            <p>To book the studio for a live shot or for a multi-camera production please call <br />617-901-7157 for rates and availability.</p>
                             <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
                             <p>PIXM-BOS-E1</p>
                             <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>

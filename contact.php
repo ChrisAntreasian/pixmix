@@ -31,13 +31,14 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>300 Western Ave. (Century Bank Building)</div>
-							<div>Suite B-110  Lower Level</div>
-							<div>Boston (Allston section) MA  02134</div>
+							<div>274 North Main Street  (Harbor One Bank building)</div>
+							<div><strong>Or</strong> 1 Credit Union Way</div>
+							<div>Suite 201 Second Floor</div>
+							<div>Randolph MA  02368</div>
 						</div>
 						<div>
 							<h4>Main Business Number</h4>
-							<div>617-254-0590</div>
+							<div>617-901-7157</div>
 						</div>
 						<div>
 						<h4><strong>PixMix is on the LTN Network</strong></h4>
@@ -47,15 +48,15 @@
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
-							<div>617-254-0591</div>
+							<div>718-805-8573</div>
 						</div>
 						<div>
 							<h4>Inbound PL Number</h4>
-							<div>617-254-0592</div>
+							<div>XXX-yyy-ZZZZ</div>
 						</div>
 						<div>
 							<h4>Control Room Trouble Number</h4>
-							<div>617-254-0593</div>
+							<div>617-901-7157</div>
 						 </div>		 
 						<div>
 							<h4>Business Office</h4>
@@ -68,7 +69,8 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1 mile from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+							<strong>PixMix Video Services</strong> is located at 274 North Main Street, Randolph, MA.  Our location is on the second floor of the Harbor One Bank building.  We have ample, FREE off street parking. We have ample, FREE off street parking. 
+							Find us directly on the MBTA Bus Line #238 or #240
 						</p>
 					</div>
 					<div>

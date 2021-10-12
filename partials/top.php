@@ -2,7 +2,7 @@
     <div class="mobile__header">
         <a id="mobile__menu-btn" href="#"></a>
         <a id="logo" href="index">PixMix</a>
-        <a id="logo2" href="contact">617-254-0590</a>
+        <a id="logo2" href="contact">617-901-7157</a>
     </div>
     <div id="navigation">
         <div class="mobile__nav-bg"></div>
@@ -20,7 +20,7 @@
                 <ul>
                     <li>
                         <a href="boston">
-                            Boston HD Studio
+                            Randolph HD Studio
                         </a>
                     </li>
                     <li>
