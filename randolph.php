@@ -48,7 +48,7 @@
                 <div id="thumbs2">
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/PixMix-Floorplan-randolph.jpg" href="images/boston/PixMix-floorplan-randolph.jpg">
+                            <a rel="images/boston/pixmix-floorplan-randolph.jpg" href="images/boston/PixMix-floorplan-randolph.jpg">
                                 <img src="images/boston/PixMix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
