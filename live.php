@@ -98,7 +98,7 @@
                                 Live Shots usually occur in High Definition
                                 but can also be originated in Standard Def.
                                 These events use just a single camera and
-                                always happen in our Boston HD studio.
+                                always happen in our Randolph HD studio.
                                 <span class="no-wrap">The studio</span> is equipped with a single
                                 <span class="no-wrap">Sony PDW-700 HD camera</span> and the
                                 <span class="no-wrap">&ldquo;News Set&rdquo; is</span> permanently lit with
