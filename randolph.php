@@ -41,15 +41,15 @@
 			<div class="content-left content-left--gallery">
 				<h2>&nbsp;</h2>
 
-                <div id="bigpic2"><img src="images/boston/PixMix-Floorplan-randolph.jpg" alt="AARP" />
+                <div id="bigpic2"><img src="images/boston/pixmix-floorplan-randolph.jpg" alt="AARP" />
                 	<p id="desc">Move your mouse over the images below to view here...</p>
                 </div>
 
                 <div id="thumbs2">
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/pixmix-floorplan-randolph.jpg" href="images/boston/PixMix-floorplan-randolph.jpg">
-                                <img src="images/boston/PixMix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            <a rel="images/boston/pixmix-floorplan-randolph.jpg" href="images/boston/pixmix-floorplan-randolph.jpg">
+                                <img src="images/boston/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
