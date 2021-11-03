@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>PixMix - Economy Studio</title>
+    <title>PixMix - Randolph Studio</title>
     <meta name="description" content="Covering All The Angles. Nothing slips through the cracks at PixMix, click to read more." />
     <meta name="keywords" content="PixMix Video Services, PixMix, economy studio, boston, live shot, live shot boston, live shot studio boston, fiber feed, fiber feed boston, live shot studio, live shot studio boston, news feed, news feed boston, news feed studio, news feed studio boston, insert studio, insert studio boston, video transmission, video transmission boston, live broadcast studio, live broadcast studio boston" />
 
@@ -48,60 +48,60 @@
                 <div id="thumbs2">
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/pixmix-floorplan-randolph.jpg" href="images/boston/pixmix-floorplan-randolph.jpg">
-                                <img src="images/boston/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            <a rel="images/randolph/pixmix-floorplan-randolph.jpg" href="images/boston/pixmix-floorplan-randolph.jpg">
+                                <img src="images/randolph/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
-                            <a rel="images/boston/control-room.jpg" href="images/boston/control-room.jpg">
-                                <img src="images/boston/control-room.jpg" alt="View of Control Room Front Bench" title="View of Control Room Front Bench" />
+                            <a rel="images/randolph/control-room.jpg" href="images/boston/control-room.jpg">
+                                <img src="images/randolph/control-room.jpg" alt="View of Control Room Front Bench" title="View of Control Room Front Bench" />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/talent-on-set.jpg" href="images/boston/talent-on-set.jpg">
-                                <img src="images/boston/talent-on-set.jpg" alt="Doctors prepare for a LIVE - Labroots webcast " title="Doctors prepare for a LIVE - Labroots webcast " />
+                            <a rel="images/randolph/talent-on-set.jpg" href="images/boston/talent-on-set.jpg">
+                                <img src="images/randolph/talent-on-set.jpg" alt="Doctors prepare for a LIVE - Labroots webcast " title="Doctors prepare for a LIVE - Labroots webcast " />
                             </a>
                         </li>
                           </ul>
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/single-talent-on-set.jpg" href="images/boston/single-talent-on-set.jpg">
-                                <img src="images/boston/single-talent-on-set.jpg" alt="Talent prepares for a LIVE – Cmex webcast " title="Talent prepares for a LIVE – Cmex webcast " />
+                            <a rel="images/randolph/single-talent-on-set.jpg" href="images/boston/single-talent-on-set.jpg">
+                                <img src="images/randolph/single-talent-on-set.jpg" alt="Talent prepares for a LIVE – Cmex webcast " title="Talent prepares for a LIVE – Cmex webcast " />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/web-cast.jpg" href="images/boston/web-cast.jpg">
-                                <img src="images/boston/web-cast.jpg" alt="Actual ScreenShot from UBM / RAPID 7 webcast" title="Actual ScreenShot from UBM / RAPID 7 webcast" />
+                            <a rel="images/randolph/web-cast.jpg" href="images/boston/web-cast.jpg">
+                                <img src="images/randolph/web-cast.jpg" alt="Actual ScreenShot from UBM / RAPID 7 webcast" title="Actual ScreenShot from UBM / RAPID 7 webcast" />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/webcast-desk.jpg" href="images/boston/webcast-desk.jpg">
-                                <img src="images/boston/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
+                            <a rel="images/randolph/webcast-desk.jpg" href="images/boston/webcast-desk.jpg">
+                                <img src="images/randolph/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
                             </a>
                         </li>
                       </ul>
                         <ul class="col-3">
                         <li>
-                            <a rel="images/boston/studio-set.jpg" href="images/boston/studio-set.jpg">
-                                <img src="images/boston/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
+                            <a rel="images/randolph/studio-set.jpg" href="images/boston/studio-set.jpg">
+                                <img src="images/randolph/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/doctor-patient.jpg" href="images/boston/doctor-patient.jpg">
-                                <img src="images/boston/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
+                            <a rel="images/randolph/doctor-patient.jpg" href="images/boston/doctor-patient.jpg">
+                                <img src="images/randolph/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/green-room.jpg" href="images/boston/green-room.jpg">
-                                <img src="images/boston/green-room.jpg" alt="Green Room Space including Make-up area" title="Green Room Space including Make-up area" />
+                            <a rel="images/randolph/green-room.jpg" href="images/boston/green-room.jpg">
+                                <img src="images/randolph/green-room.jpg" alt="Green Room Space including Make-up area" title="Green Room Space including Make-up area" />
                             </a>
                         </li>
 
                     </ul>
                       <ul class="col-3">
                           <li>
-                              <a rel="images/boston/hallway.jpg" href="images/boston/hallway.jpg">
-                                  <img src="images/boston/hallway.jpg" alt="Hallway leading to the Green Room Area" title="Hallway leading to the Green Room Area" />
+                              <a rel="images/randolph/hallway.jpg" href="images/boston/hallway.jpg">
+                                  <img src="images/randolph/hallway.jpg" alt="Hallway leading to the Green Room Area" title="Hallway leading to the Green Room Area" />
                               </a>
                           </li>
                 </div>

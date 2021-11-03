@@ -19,6 +19,10 @@
             <li><a href="metrowest">Studio Facilities & Rentals</a>
                 <ul>
                     <li>
+                        <a href="boston">
+                            Boston HD Studio</a>
+                    </li>
+                    <li>
                         <a href="randolph">
                             Randolph HD Studio
                         </a>
