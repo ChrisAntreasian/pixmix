@@ -59,12 +59,12 @@
                         </li>
                         <li>
                             <a rel="images/boston/guests-on-set.jpg" href="images/boston/guests-on-set.jpg">
-                                <img src="images/boston/guests-on-set.jpg" alt="6 panel members on set" title="6 panel members on set" />
+                                <img src="images/boston/guests-on-set.jpg" alt="6 guests on set" title="6 guests on set" />
                             </a>
                         </li>
                         <li>
                             <a rel="images/boston/flypack-fraser.jpg" href="images/boston/flypack-fraser.jpg">
-                                <img src="images/boston/flypack-fraser.jpg" alt="flypack at Fraser Studios" title="flypack at Fraser Studios" />
+                                <img src="images/boston/flypack-fraser.jpg" alt="Flypack at Fraser Studios" title="Flypack at Fraser Studios" />
                             </a>
                         </li>
                       </ul>
