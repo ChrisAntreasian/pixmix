@@ -11,19 +11,6 @@
 
     <!-- Css -->
 	<link type="text/css" rel="stylesheet" href="css/Combiner-gallery7.css">
-
-	<!-- Javascripts -->
-	<script type="text/javascript" src="js/jquery.pikachoose.js"></script>
-	<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
-	<script type="text/javascript" src="js/tiptip.js"></script>
-
-    <script type="text/javascript" charset="utf-8">
-		$(document).ready(
-			function (){
-				$("#pikame").PikaChoose({autoPlay:true, speed:4000, transition:[0]});
-			});
-	</script>
-
 	<script type="text/javascript" src="js/menu.js"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
 	<script type="text/javascript" src="js/Combiner-gallery7.js"></script>
