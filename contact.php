@@ -69,7 +69,9 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 274 North Main Street, Randolph, MA.  Our location is on the second floor of the Harbor One Bank building.  We have ample, FREE off street parking. We have ample, FREE off street parking. 
+							<strong>PixMix Video Services</strong> is located at 
+							274 North Main Street, Randolph, MA.  Our location is on the second floor 
+							of the Harbor One Bank building.  We have ample, FREE off street parking.   
 							Find us directly on the MBTA Bus Line #238 or #240
 						</p>
 					</div>

@@ -79,6 +79,11 @@
                                 <img src="images/randolph/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
                             </a>
                         </li>
+                        <li>
+                            <a rel="images/randolph/pixmix-floorplan-randolph.jpg" href="images/randolph/pixmix-floorplan-randolph.jpg">
+                                <img src="images/randolph/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            </a>
+                        </li>
                     </ul>
                     <ul class="col-3">
                         <li>
@@ -89,6 +94,28 @@
                         <li>
                             <a rel="images/randolph/doctor-patient.jpg" href="images/randolph/doctor-patient.jpg">
                                 <img src="images/randolph/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/randolph/webcast-master-randolph.jpg" href="images/randolph/webcast-master-randolph.jpg">
+                                <img src="images/randolph/webcast-master-randolph.jpg" alt="Webcast Set… Master Shot… Randolph Studio" title="Webcast Set… Master Shot… Randolph Studio" />
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="col-3">
+                        <li>
+                            <a rel="images/randolph/camera-left.jpg" href="images/randolph/camera-left.jpg">
+                                <img src="images/randolph/camera-left.jpg" alt="Camera Left Shot of Set" title="Camera Left Shot of Set" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/randolph/camera-right.jpg" href="images/randolph/camera-right.jpg">
+                                <img src="images/randolph/camera-right.jpg" alt="Camera Right Shot of Set" title="Camera Right Shot of Set" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/randolph/high-center.jpg" href="images/randolph/high-center.jpg">
+                                <img src="images/randolph/high-center.jpg" alt="High Center Shot of Randolph Set" title="High Center Shot of Randolph Set" />
                             </a>
                         </li>
                     </ul>
