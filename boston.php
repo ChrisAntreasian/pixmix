@@ -49,7 +49,7 @@
                                 <img src="images/boston/pixmix-fraser.jpg" alt="PixMix at Fraser Studio" title="PixMix at Fraser Studio"  />
                             </a>
                         </li>
-                          </ul>
+                    </ul>
                     <ul class="col-3">
                        
                         <li>
@@ -67,7 +67,7 @@
                                 <img src="images/boston/flypack-fraser.jpg" alt="Flypack at Fraser Studios" title="Flypack at Fraser Studios" />
                             </a>
                         </li>
-                      </ul>
+                    </ul>
                     
                 </div>
 			</div><!-- end of content-left -->
@@ -96,13 +96,13 @@
                             included in the rental.  Ample Off Street parking is available next to the building. 
                             </p>
 
-                <span class="mobile__body-img">
-                                    <img src="images/mobile/pixmix-fraser.jpg" alt="Pixmix at Fraser Studio" />
-                                    <span class="mobile__body-caption">Pixmix at Fraser Studio</span>
-                                </span>
-                               <p> PixMix has worked in this studio space several times (see accompanying photos) 
-                               and every event has been a pleasure to produce.  Let us put this truly excellent stage 
-                               to work for you on your next high profile studio project. </p>
+                            <span class="mobile__body-img">
+                                <img src="images/mobile/pixmix-fraser.jpg" alt="Pixmix at Fraser Studio" />
+                                <span class="mobile__body-caption">Pixmix at Fraser Studio</span>
+                            </span>
+                            <p> PixMix has worked in this studio space several times (see accompanying photos) 
+                            and every event has been a pleasure to produce.  Let us put this truly excellent stage 
+                            to work for you on your next high profile studio project. </p>
 
                             <p>To book this space for a single or multi-camera production please call 617-901-7157 for rates and availability.</p>
 						</div><!-- end of block-content -->

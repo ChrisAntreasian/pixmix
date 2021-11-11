@@ -62,7 +62,7 @@
                                 <img src="images/randolph/talent-on-set.jpg" alt="Doctors prepare for a LIVE - Labroots webcast " title="Doctors prepare for a LIVE - Labroots webcast " />
                             </a>
                         </li>
-                          </ul>
+                    </ul>
                     <ul class="col-3">
                         <li>
                             <a rel="images/randolph/single-talent-on-set.jpg" href="images/randolph/single-talent-on-set.jpg">
@@ -79,8 +79,8 @@
                                 <img src="images/randolph/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
                             </a>
                         </li>
-                      </ul>
-                        <ul class="col-3">
+                    </ul>
+                    <ul class="col-3">
                         <li>
                             <a rel="images/randolph/studio-set.jpg" href="images/randolph/studio-set.jpg">
                                 <img src="images/randolph/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
@@ -91,6 +91,7 @@
                                 <img src="images/randolph/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
                             </a>
                         </li>
+                    </ul>
                 </div>
 			</div><!-- end of content-left -->
 
