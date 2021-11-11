@@ -46,7 +46,7 @@
                         </li>
                         <li>
                             <a rel="images/boston/pixmix-fraser.jpg" href="images/boston/pixmix-fraser.jpg">
-                                <img src="images/boston/pixmix-fraser.jpg" alt="Pixmix at Fraser Studio" title="Pixmix at Fraser Studio"  />
+                                <img src="images/boston/pixmix-fraser.jpg" alt="PixMix at Fraser Studio" title="PixMix at Fraser Studio"  />
                             </a>
                         </li>
                           </ul>
