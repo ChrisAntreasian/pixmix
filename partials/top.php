@@ -12,12 +12,16 @@
                     <li><a href="multi-camera">Multi-Camera</a></li>
                     <li><a href="single-camera">Single Camera</a></li>
                     <li><a href="hd">HD Video</a></li>
-
                 </ul>
             </li><!-- end Home -->
 
             <li><a href="metrowest">Studio Facilities & Rentals</a>
                 <ul>
+                    <li>
+                        <a href="boston">
+                            Boston HD Studio
+                        </a>
+                    </li>
                     <li>
                         <a href="randolph">
                             Randolph HD Studio

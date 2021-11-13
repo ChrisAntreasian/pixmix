@@ -74,8 +74,9 @@
                 <ul>
                     <li><a rel="images/liveshots/windowtreatment_sm.png" href="images/liveshots/windowtreatment.png">
                 		<img src="images/liveshots/windowtreatment_sm.png" alt="Window Treatment" title="Boston news feed studio with available window treatments" /></a></li>
-                	<li> <a rel="images/liveshots/floorplan_sm.png" href="images/liveshots/floorplan.png">
-                		<img src="images/liveshots/floorplan_sm.png" alt="Live Shot Studio Floor Plan" title="Boston news feed studio floor plan" /></a></li>
+                	<li> <a rel="images/randolph/pixmix-floorplan-randolph.jpg" href="images/randolph/pixmix-floorplan-randolph.jpg">
+                                <img src="images/randolph/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            </a></li>
                 </ul>
 
                 </div>

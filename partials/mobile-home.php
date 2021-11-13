@@ -27,6 +27,9 @@
             </h2>
             <ul class="m-home__secondary">
                 <li>
+                    <a href="boston">Boston HD Studio</a>
+                </li>
+                <li>
                     <a href="randolph">Randolph HD Studio</a>
                 </li>
                 <li>

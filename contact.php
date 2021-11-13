@@ -69,7 +69,9 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 274 North Main Street, Randolph, MA.  Our location is on the second floor of the Harbor One Bank building.  We have ample, FREE off street parking. We have ample, FREE off street parking. 
+							<strong>PixMix Video Services</strong> is located at 
+							274 North Main Street, Randolph, MA.  Our location is on the second floor 
+							of the Harbor One Bank building.  We have ample, FREE off street parking.   
 							Find us directly on the MBTA Bus Line #238 or #240
 						</p>
 					</div>
@@ -126,13 +128,11 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-								<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14'></script><div style='overflow:hidden;height:255px;width:255px;'><div id='gmap_canvas' style='height:255px;width:255px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://embedmap.org/'>adding google maps to my website</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7e95c8a129e49d730b467665a17b060c57b4cc7e'></script><script type='text/javascript'>
-									function init_map(){var myOptions = {mapTypeControl: false, zoom:15,center:new google.maps.LatLng(42.3629082,-71.1350697),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.3629082,-71.1350697)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br>300 Western Ave<br> Boston<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
-								</script>
-								<small>
-									<a target="_blank" href="https://www.google.com/maps/place/300+Western+Ave,+Brighton,+MA+02135/@42.3630621,-71.1417102,17z" style="color:#0000FF;text-align:left;padding-top:12px;display:block;">View Larger Map</a>
-								</small>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s274%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
+								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+									
 							</div>
+							<!-- future images of Randolph 
 							<ul class="western">
 						        <li>
 						       		<img src="images/contact/300-western1.jpg" />
@@ -146,7 +146,7 @@
 									<img src="images/contact/300-western3.jpg" />	
 									<p>The door on the LEFT leads to PixMix offices which are located on the LOWER LEVEL</p>
 								</li>
-							</ul>
+							</ul> -->
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 
