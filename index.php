@@ -101,14 +101,6 @@
 							</div>
 						</div><!-- end of panel -->
 
-						<div class="panel">
-							<div class="panel-wrapper">z
-								<div>
-	                                <img src="images/hero/Calendars.png" width="900" height="300" alt="Calendars" title="Request a Free PixMix Calendar, part of a continuing series" />
-                               </div>
-							</div>
-						</div><!-- end of panel -->
-
 					</div><!-- .coda-slider -->
 				</div><!-- .coda-slider-wrapper -->
 			</div><!-- end of featured -->

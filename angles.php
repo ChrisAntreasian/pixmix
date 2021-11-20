@@ -50,8 +50,8 @@
 								<p><b>For PixMix Video Services...our tag line...<br />
 								<q>Covering All The Angles</q><br /> really tells the tale of our company.</p>
 
-								<p>One of our specialties is <a href="/multi-camera" title="PixMix Video Multi Camera Production Services">multi-camera production</a>. Whether on location or in one of our two<br /> 
-							    <a href="/contact" title="Click Here To Get Directions to PixMix Video Services">Watertown studios</a>...when PixMix<br /> is shooting an event with multiple cameras<br />we are certainly <q>covering all the angles</q>. </p>
+								<p>One of our specialties is <a href="/multi-camera" title="PixMix Video Multi Camera Production Services">multi-camera production</a>. Whether on location or in our 
+							    <a href="/contact" title="Click Here To Get Directions to PixMix Video Services">studio</a><br /> ...when PixMix is shooting an event <br />with multiple cameras we are certainly <br /> <q>covering all the angles</q>. </p>
 
 
 						    <p>And for every event we shoot,<br /> 
