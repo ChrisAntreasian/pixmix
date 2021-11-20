@@ -31,13 +31,14 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>300 Western Ave. (Century Bank Building)</div>
-							<div>Suite B-110  Lower Level</div>
-							<div>Boston (Allston section) MA  02134</div>
+							<div>274 North Main Street  (Harbor One Bank building)</div>
+							<div><strong>Or</strong> 1 Credit Union Way</div>
+							<div>Suite 201 Second Floor</div>
+							<div>Randolph MA  02368</div>
 						</div>
 						<div>
 							<h4>Main Business Number</h4>
-							<div>617-254-0590</div>
+							<div>617-901-7157</div>
 						</div>
 						<div>
 						<h4><strong>PixMix is on the LTN Network</strong></h4>
@@ -47,15 +48,15 @@
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
-							<div>617-254-0591</div>
+							<div>718-805-8573</div>
 						</div>
 						<div>
 							<h4>Inbound PL Number</h4>
-							<div>617-254-0592</div>
+							<div>XXX-yyy-ZZZZ</div>
 						</div>
 						<div>
 							<h4>Control Room Trouble Number</h4>
-							<div>617-254-0593</div>
+							<div>617-901-7157</div>
 						 </div>		 
 						<div>
 							<h4>Business Office</h4>
@@ -68,7 +69,10 @@
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 300 Western Ave.  Boston - (Allston section).  Our location is only 1 mile from Harvard Square, Cambridge and 4.5 miles from central downtown Boston. We have ample, FREE off street parking. Find us directly on the MBTA Bus Line #70 which runs from Central Square, Cambridge to Watertown Square, Watertown.
+							<strong>PixMix Video Services</strong> is located at 
+							274 North Main Street, Randolph, MA.  Our location is on the second floor 
+							of the Harbor One Bank building.  We have ample, FREE off street parking.   
+							Find us directly on the MBTA Bus Line #238 or #240
 						</p>
 					</div>
 					<div>
@@ -124,13 +128,11 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-								<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14'></script><div style='overflow:hidden;height:255px;width:255px;'><div id='gmap_canvas' style='height:255px;width:255px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://embedmap.org/'>adding google maps to my website</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7e95c8a129e49d730b467665a17b060c57b4cc7e'></script><script type='text/javascript'>
-									function init_map(){var myOptions = {mapTypeControl: false, zoom:15,center:new google.maps.LatLng(42.3629082,-71.1350697),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.3629082,-71.1350697)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br>300 Western Ave<br> Boston<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
-								</script>
-								<small>
-									<a target="_blank" href="https://www.google.com/maps/place/300+Western+Ave,+Brighton,+MA+02135/@42.3630621,-71.1417102,17z" style="color:#0000FF;text-align:left;padding-top:12px;display:block;">View Larger Map</a>
-								</small>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s274%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
+								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+									
 							</div>
+							<!-- future images of Randolph 
 							<ul class="western">
 						        <li>
 						       		<img src="images/contact/300-western1.jpg" />
@@ -144,7 +146,7 @@
 									<img src="images/contact/300-western3.jpg" />	
 									<p>The door on the LEFT leads to PixMix offices which are located on the LOWER LEVEL</p>
 								</li>
-							</ul>
+							</ul> -->
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 

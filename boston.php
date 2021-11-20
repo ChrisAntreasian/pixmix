@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>PixMix - Economy Studio</title>
+    <title>PixMix - Boston HD Studio</title>
     <meta name="description" content="Covering All The Angles. Nothing slips through the cracks at PixMix, click to read more." />
     <meta name="keywords" content="PixMix Video Services, PixMix, economy studio, boston, live shot, live shot boston, live shot studio boston, fiber feed, fiber feed boston, live shot studio, live shot studio boston, news feed, news feed boston, news feed studio, news feed studio boston, insert studio, insert studio boston, video transmission, video transmission boston, live broadcast studio, live broadcast studio boston" />
 
@@ -11,19 +11,6 @@
 
     <!-- Css -->
 	<link type="text/css" rel="stylesheet" href="css/Combiner-gallery7.css">
-
-	<!-- Javascripts -->
-	<script type="text/javascript" src="js/jquery.pikachoose.js"></script>
-	<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
-	<script type="text/javascript" src="js/tiptip.js"></script>
-
-    <script type="text/javascript" charset="utf-8">
-		$(document).ready(
-			function (){
-				$("#pikame").PikaChoose({autoPlay:true, speed:4000, transition:[0]});
-			});
-	</script>
-
 	<script type="text/javascript" src="js/menu.js"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
 	<script type="text/javascript" src="js/Combiner-gallery7.js"></script>
@@ -41,69 +28,47 @@
 			<div class="content-left content-left--gallery">
 				<h2>&nbsp;</h2>
 
-                <div id="bigpic2"><img src="images/boston/PixMix-300-Floorplan.jpg" alt="AARP" />
+                <div id="bigpic2"><img src="images/boston/pixmix-floorplan-fraser.jpg" alt="Boston WGBH studio floor plan" />
                 	<p id="desc">Move your mouse over the images below to view here...</p>
                 </div>
 
                 <div id="thumbs2">
                     <ul class="col-3">
                         <li>
-                            <a rel="images/boston/PixMix-300-Floorplan.jpg" href="images/boston/PixMix-300-Floorplan.jpg">
-                                <img src="images/boston/PixMix-300-Floorplan.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            <a rel="images/boston/pixmix-floorplan-fraser.jpg" href="images/boston/pixmix-floorplan-fraser.jpg" >
+                                <img src="images/boston/pixmix-floorplan-fraser.jpg" alt="WGBH Boston Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
-                            <a rel="images/boston/control-room.jpg" href="images/boston/control-room.jpg">
-                                <img src="images/boston/control-room.jpg" alt="View of Control Room Front Bench" title="View of Control Room Front Bench" />
+                            <a rel="images/boston/basic-studio.jpg" href="images/boston/basic-studio.jpg">
+                                <img src="images/boston/basic-studio.jpg" alt="Basic Studio Look" title="Basic studio look WGBH Boston studio" />
                             </a>
                         </li>
                         <li>
-                            <a rel="images/boston/talent-on-set.jpg" href="images/boston/talent-on-set.jpg">
-                                <img src="images/boston/talent-on-set.jpg" alt="Doctors prepare for a LIVE - Labroots webcast " title="Doctors prepare for a LIVE - Labroots webcast " />
+                            <a rel="images/boston/pixmix-fraser.jpg" href="images/boston/pixmix-fraser.jpg">
+                                <img src="images/boston/pixmix-fraser.jpg" alt="PixMix at Fraser Studio" title="PixMix at Fraser Studio"  />
                             </a>
                         </li>
-                          </ul>
-                    <ul class="col-3">
-                        <li>
-                            <a rel="images/boston/single-talent-on-set.jpg" href="images/boston/single-talent-on-set.jpg">
-                                <img src="images/boston/single-talent-on-set.jpg" alt="Talent prepares for a LIVE – Cmex webcast " title="Talent prepares for a LIVE – Cmex webcast " />
-                            </a>
-                        </li>
-                        <li>
-                            <a rel="images/boston/web-cast.jpg" href="images/boston/web-cast.jpg">
-                                <img src="images/boston/web-cast.jpg" alt="Actual ScreenShot from UBM / RAPID 7 webcast" title="Actual ScreenShot from UBM / RAPID 7 webcast" />
-                            </a>
-                        </li>
-                        <li>
-                            <a rel="images/boston/webcast-desk.jpg" href="images/boston/webcast-desk.jpg">
-                                <img src="images/boston/webcast-desk.jpg" alt="View of Studio Set from left side Camera 1 position" title="View of Studio Set from left side Camera 1 position" />
-                            </a>
-                        </li>
-                      </ul>
-                        <ul class="col-3">
-                        <li>
-                            <a rel="images/boston/studio-set.jpg" href="images/boston/studio-set.jpg">
-                                <img src="images/boston/studio-set.jpg" alt="View of Studio Set from center Camera 2 position" title="View of Studio Set from center Camera 2 position" />
-                            </a>
-                        </li>
-                        <li>
-                            <a rel="images/boston/doctor-patient.jpg" href="images/boston/doctor-patient.jpg">
-                                <img src="images/boston/doctor-patient.jpg" alt="Doctor and Patient prepare for an interview" title="Doctor and Patient prepare for an interview" />
-                            </a>
-                        </li>
-                        <li>
-                            <a rel="images/boston/green-room.jpg" href="images/boston/green-room.jpg">
-                                <img src="images/boston/green-room.jpg" alt="Green Room Space including Make-up area" title="Green Room Space including Make-up area" />
-                            </a>
-                        </li>
-
                     </ul>
-                      <ul class="col-3">
-                          <li>
-                              <a rel="images/boston/hallway.jpg" href="images/boston/hallway.jpg">
-                                  <img src="images/boston/hallway.jpg" alt="Hallway leading to the Green Room Area" title="Hallway leading to the Green Room Area" />
-                              </a>
-                          </li>
+                    <ul class="col-3">
+                       
+                        <li>
+                            <a rel="images/boston/panel-preparing-on-set.jpg" href="images/boston/panel-preparing-on-set.jpg">
+                                <img src="images/boston/panel-preparing-on-set.jpg" alt="6 panel members prepare for OnAir Webcast" title="panel members prepare for OnAir Webcast" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/boston/guests-on-set.jpg" href="images/boston/guests-on-set.jpg">
+                                <img src="images/boston/guests-on-set.jpg" alt="6 guests on set" title="6 guests on set" />
+                            </a>
+                        </li>
+                        <li>
+                            <a rel="images/boston/flypack-fraser.jpg" href="images/boston/flypack-fraser.jpg">
+                                <img src="images/boston/flypack-fraser.jpg" alt="Flypack at Fraser Studios" title="Flypack at Fraser Studios" />
+                            </a>
+                        </li>
+                    </ul>
+                    
                 </div>
 			</div><!-- end of content-left -->
 
@@ -114,28 +79,32 @@
                         <h4 class="title">HD Studio</h4>
                         <div class="block-content">
                             <p>
-                                The PixMix Boston studio facility is <br />
-                                20’ x 24’ and is equipped with low heat <br />
-                                KinoFlo lighting instruments.
+                            PixMix Video, by special arrangement with WGBH-TV,
+                             is able to offer the 52’ x 35’ Fraser Studio for 
+                             LIVE or LIVE to TAPE events. Located in the Allston/Brighton section of Boston, 
+                              the studio is only 5 miles from Central Downtown Boston. 
                                  <span class="mobile__body-img">
-                                    <img src="images/mobile/doctors-prepare-for-web-cast.jpg" alt="Doctors prepare for a LIVE webcast" />
-                                    <span class="mobile__body-caption">Doctors prepare for a LIVE webcast</span>
+                                    <img src="images/mobile/basic-studio-look.jpg" alt="Basic look of Boston Fraser Studio" />
+                                    <span class="mobile__body-caption">Basic look of Boston Fraser Studio</span>
                                 </span>
                             </p>
 
                             <p>
-                                This studio has a permanent set and “news desk”.  While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set.  For “live shots” we only use a single HD camera, but the studio is pre-wired for up to 3 HD cameras and we have produced a number of LIVE 3 camera webcasts from this space.
-                                <span class="mobile__body-img">
-                                    <img src="images/mobile/hd-control-room.jpg" alt="HD controll room" />
-                                    <span class="mobile__body-caption">Front Bench of our HD Control Room</span>
-                                </span>
+                            The Lighting Grid is 18 feet from the floor and is fully equipped with the 
+                            latest in high efficiency LED instruments.  The walls and floor are acoustically 
+                            treated for excellent sound fidelity.  A separate Green Room and Make-up area are 
+                            included in the rental.  Ample Off Street parking is available next to the building. 
                             </p>
-                            <p>Adjacent to the studio is our Multi-Camera Control Room.  The front bench area is arranged like a traditional TV Control Room with seating for Director, Audio Engineer, Video Engineer and Prompter/Chyron operator.</p>
-                            <p>The Producers Back Bench area can seat two people. This area has ample work space and offers a full view of the control room.  A talent IFB console plus multiple phone lines are available at the back bench.</p>
-                            <p>To book the studio for a live shot or for a multi-camera production please call <br />617-254-0590 for rates and availability.</p>
-                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
-                            <p>PIXM-BOS-E1</p>
-                            <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>
+
+                            <span class="mobile__body-img">
+                                <img src="images/mobile/pixmix-fraser.jpg" alt="Pixmix at Fraser Studio" />
+                                <span class="mobile__body-caption">Pixmix at Fraser Studio</span>
+                            </span>
+                            <p> PixMix has worked in this studio space several times (see accompanying photos) 
+                            and every event has been a pleasure to produce.  Let us put this truly excellent stage 
+                            to work for you on your next high profile studio project. </p>
+
+                            <p>To book this space for a single or multi-camera production please call 617-901-7157 for rates and availability.</p>
 						</div><!-- end of block-content -->
                         <div class="content-left">
                             <strong>You may also be interested in:</strong>

@@ -2,7 +2,7 @@
     <div class="mobile__header">
         <a id="mobile__menu-btn" href="#"></a>
         <a id="logo" href="index">PixMix</a>
-        <a id="logo2" href="contact">617-254-0590</a>
+        <a id="logo2" href="contact">617-901-7157</a>
     </div>
     <div id="navigation">
         <div class="mobile__nav-bg"></div>
@@ -12,7 +12,6 @@
                     <li><a href="multi-camera">Multi-Camera</a></li>
                     <li><a href="single-camera">Single Camera</a></li>
                     <li><a href="hd">HD Video</a></li>
-
                 </ul>
             </li><!-- end Home -->
 
@@ -21,6 +20,11 @@
                     <li>
                         <a href="boston">
                             Boston HD Studio
+                        </a>
+                    </li>
+                    <li>
+                        <a href="randolph">
+                            Randolph HD Studio
                         </a>
                     </li>
                     <li>

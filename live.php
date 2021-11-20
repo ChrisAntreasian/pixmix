@@ -74,8 +74,9 @@
                 <ul>
                     <li><a rel="images/liveshots/windowtreatment_sm.png" href="images/liveshots/windowtreatment.png">
                 		<img src="images/liveshots/windowtreatment_sm.png" alt="Window Treatment" title="Boston news feed studio with available window treatments" /></a></li>
-                	<li> <a rel="images/liveshots/floorplan_sm.png" href="images/liveshots/floorplan.png">
-                		<img src="images/liveshots/floorplan_sm.png" alt="Live Shot Studio Floor Plan" title="Boston news feed studio floor plan" /></a></li>
+                	<li> <a rel="images/randolph/pixmix-floorplan-randolph.jpg" href="images/randolph/pixmix-floorplan-randolph.jpg">
+                                <img src="images/randolph/pixmix-floorplan-randolph.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                            </a></li>
                 </ul>
 
                 </div>
@@ -98,7 +99,7 @@
                                 Live Shots usually occur in High Definition
                                 but can also be originated in Standard Def.
                                 These events use just a single camera and
-                                always happen in our Boston HD studio.
+                                always happen in our Randolph HD studio.
                                 <span class="no-wrap">The studio</span> is equipped with a single
                                 <span class="no-wrap">Sony PDW-700 HD camera</span> and the
                                 <span class="no-wrap">&ldquo;News Set&rdquo; is</span> permanently lit with

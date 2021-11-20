@@ -3,13 +3,13 @@
         <div class="copyright">
             <div class="copyright-content">
                 <p>
-                    © PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-254-0590<br />
-                    Studio Location  300 Western Ave, Boston (Allston) MA 02134 <br />
+                    © PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-901-7157<br />
+                    Studio Location  274 North Main Street, Randolph, MA 02368 <br />
                     Business Office  7 Cliff Road  Suite 201, Bellingham, MA 02019
                 </p>
                 <div class="copyright-content--mobile">
                     <div>© PixMix Video Services</div>
-                    <div>617-254-0590</div>
+                    <div>617-901-7157</div>
                 </div>
             </div><!-- end of copyright-content -->
         </div><!-- end of copyright -->
