@@ -132,21 +132,21 @@
 								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 									
 							</div>
-							<!-- future images of Randolph 
+							 
 							<ul class="western">
 						        <li>
-						       		<img src="images/contact/300-western1.jpg" />
-						       		<p>Pixmix is located at 300 Western Ave (Use Century Bank as a landmark)</p>
+						       		<img src="images/contact/randolph1.jpg" alt="Exterior of Harbor One Bank Building"/>
 						       	</li>
 						       	<li>
-							        <img src="images/contact/300-western2.jpg" />
-							        <p>This sign is directly in front of 300 Western Ave</p>
+							        <img src="images/contact/randolph2.jpg" alt="274 N. Main St. Randolph, MA." />
 							    </li>
 								<li>
-									<img src="images/contact/300-western3.jpg" />	
-									<p>The door on the LEFT leads to PixMix offices which are located on the LOWER LEVEL</p>
+									<img src="images/contact/randolph3.jpg" alt="Main Door Entrance"/>	
 								</li>
-							</ul> -->
+								<li>
+									<img src="images/contact/randolph4.jpg" alt="1st. Floor Lobby & 2 Elevators" />	
+								</li>
+							</ul>
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 
