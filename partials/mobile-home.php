@@ -30,7 +30,7 @@
                     <a href="boston">Boston HD Studio</a>
                 </li>
                 <li>
-                    <a href="randolph">Randolph HD Studio</a>
+                    <a href="canton">Canton HD Studio</a>
                 </li>
                 <li>
                     <a href="metrowest">MetroWest Economy Studio</a>

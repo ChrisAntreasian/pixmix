@@ -139,16 +139,17 @@
                             </p>
 
                             <p>
-                                This studio has a permanent set and “news desk”.  While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set.  For “live shots” we only use a single HD camera, but the studio is pre-wired for up to 3 HD cameras and we have produced a number of LIVE 3 camera webcasts from this space.
+                            This studio has a permanent set and “news desk”. While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set. For “live shots” and Satellite Media Tours we only use a single HD camera, but the studio is pre-wired for up to 3 or 4 HD cameras. We have produced a number of LIVE 3 camera webcasts and Zoom events from this space.
                                 <span class="mobile__body-img">
                                     <img src="images/mobile/hd-control-room.jpg" alt="HD controll room" />
                                     <span class="mobile__body-caption">Front Bench of our HD Control Room</span>
                                 </span>
-                            <p>Our Green Room is convenient to the studio and has a small separate make-up / dressing room.  The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby and elevators. The oversized lobby can be used as an additional “holding area” for larger productions.</p>
-                            <p>Adjacent to the studio is our Multi-Camera Control Room. We control all the video signals from this area.</p>
-                            <p>To book the studio for a live shot or for a multi-camera production please call <br />617-901-7157 for rates and availability.</p>
-                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
-                            <p>PIXM-BOS-E1</p>
+                            <p>Adjacent to the studio is our Multi-Camera Control Room. We control all the video and audio signals from this area. This space is set up with a traditional “Front Bench” for the technical staff and a “Back Bench” for producers. We use a Studio Technologies IFB system for producer / talent communication.</p>
+
+                            <p>Our Green Room / Client Waiting Area is convenient to the studio. In addition we have a spacious Make-Up room that can also double as an alternate Green Room. The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby.</p>
+                            
+                            <p>To book the studio for a live shot or for a multi-camera production please call <br/>617-901-7157 for rates and availability.</p>
+                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called PIXM-BOS-E1</p>
                             <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>
 						</div><!-- end of block-content -->
                         <div class="content-left">
