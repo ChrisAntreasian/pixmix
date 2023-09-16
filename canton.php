@@ -129,8 +129,8 @@
                         <h4 class="title">HD Studio</h4>
                         <div class="block-content">
                             <p>
-                                The PixMix canton studio facility is <br />
-                                22’ x 22’ and is equipped with low heat <br />
+                                The PixMix Canton studio facility is <br />
+                                23’ x 28’ and is equipped with low heat <br />
                                 KinoFlo lighting instruments.
                                  <span class="mobile__body-img">
                                     <img src="images/mobile/doctors-prepare-for-web-cast.jpg" alt="Doctors prepare for a LIVE webcast" />
