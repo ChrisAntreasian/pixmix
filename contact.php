@@ -31,7 +31,7 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>274 North Main Street  (Harbor One Bank building)</div>
+							<div>247 North Main Street  (Harbor One Bank building)</div>
 							<div><strong>Or</strong> 1 Credit Union Way</div>
 							<div>Suite 201 Second Floor</div>
 							<div>Randolph MA  02368</div>
@@ -70,7 +70,7 @@
 						<h2>Our Location</h2>
 						<p>
 							<strong>PixMix Video Services</strong> is located at 
-							274 North Main Street, Randolph, MA.  Our location is on the second floor 
+							247 North Main Street, Randolph, MA.  Our location is on the second floor 
 							of the Harbor One Bank building.  We have ample, FREE off street parking.   
 							Find us directly on the MBTA Bus Line #238 or #240
 						</p>
@@ -128,25 +128,25 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s274%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s247%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
 								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 									
 							</div>
-							<!-- future images of Randolph 
+							 
 							<ul class="western">
 						        <li>
-						       		<img src="images/contact/300-western1.jpg" />
-						       		<p>Pixmix is located at 300 Western Ave (Use Century Bank as a landmark)</p>
+						       		<img src="images/contact/randolph1.jpg" alt="Exterior of Harbor One Bank Building"/>
 						       	</li>
 						       	<li>
-							        <img src="images/contact/300-western2.jpg" />
-							        <p>This sign is directly in front of 300 Western Ave</p>
+							        <img src="images/contact/randolph2.jpg" alt="247 N. Main St. Randolph, MA." />
 							    </li>
 								<li>
-									<img src="images/contact/300-western3.jpg" />	
-									<p>The door on the LEFT leads to PixMix offices which are located on the LOWER LEVEL</p>
+									<img src="images/contact/randolph3.jpg" alt="Main Door Entrance"/>	
 								</li>
-							</ul> -->
+								<li>
+									<img src="images/contact/randolph4.jpg" alt="1st. Floor Lobby & 2 Elevators" />	
+								</li>
+							</ul>
 						</div><!-- end of block-content -->
 					</div><!-- end of sidebar-block -->
 

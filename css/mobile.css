@@ -105,7 +105,7 @@
         background-position-y: -25px;
     }
     #logo {
-        background: transparent url(../images/mobile/logo.png) no-repeat;
+        background: transparent url(../images/mobile/logo.png?cb=2) no-repeat;
         width: 132px;
         height: 32px;
         float: none;
