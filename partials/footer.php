@@ -22,7 +22,7 @@
     
     <script type="text/javascript" charset="utf-8">
         $(function(){
-        $(".tiptip").tipTip({maxWidth: "250px", edgeOffset: 5, defaultPosition: "bottom", attribute: "rel", delay: 200});
+            $(".tiptip").tipTip({maxWidth: "250px", edgeOffset: 5, defaultPosition: "bottom", attribute: "rel", delay: 200});
         });
     </script>
     

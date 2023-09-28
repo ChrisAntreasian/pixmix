@@ -79,43 +79,33 @@
 						<h2>SEND US AN EMAIL</h2>
 						<!-- Contact Form -->
 						<div id="contact">
-				            <div id="message"></div>
-				            <form method="post" action="submit-contact" name="contactform" id="contactform">
-				            <fieldset>
-							<span class="input-wrapper">
-				            	<label for=name accesskey=U><span class="required"></span> Name:</label>
-				            	<input name="name" type="text" id="name" size="30" value="" />
-							</span>
-				            <br />
-
-							<span class="input-wrapper">
-				            	<label for=email accesskey=E><span class="required"></span> Email:</label>
-				            	<input name="email" type="text" id="email" size="30" value="" />
-							</span>
-
-
-				            <br />
-
-							<span class="input-wrapper">
-				            	<label for=subject accesskey=S><span class="required"></span> Subject:</label>
-				            	<input name="subject" type="text" id="subject" size="30" value="" />
-							</span>
-				            <br />
-
-
-				           	<label for=comments accesskey=C><span class="required"></span> Message:</label>
-							<span class="input-text">
-				            	<textarea name="comments" cols="40" rows="12"  id="comments" style="overflow: hidden;"></textarea>
-							</span>
-				            <br />
-
-
-							<label class="submit"><input name="Submit" id="submit" type="submit" /><span>Submit Message</span></label>
-
-				            </fieldset>
-				            </form>
+							<div id="message"></div>
+								<form method="post" action="submit-contact" name="contactform" id="contactform">
+								<fieldset>
+									<span class="input-wrapper">
+										<label for=name accesskey=U><span class="required"></span> Name:</label>
+										<input name="name" type="text" id="name" size="30" value="" />
+									</span>
+				          <br />
+									<span class="input-wrapper">
+				            <label for=email accesskey=E><span class="required"></span> Email:</label>
+				            <input name="email" type="text" id="email" size="30" value="" />
+									</span>
+									<br />
+									<span class="input-wrapper">
+										<label for=subject accesskey=S><span class="required"></span> Subject:</label>
+										<input name="subject" type="text" id="subject" size="30" value="" />
+									</span>
+				          <br />
+									<label for=comments accesskey=C><span class="required"></span> Message:</label>
+									<span class="input-text">
+										<textarea name="comments" cols="40" rows="12"  id="comments" style="overflow: hidden;"></textarea>
+									</span>
+				          <br />
+									<label class="submit"><input name="Submit" id="submit" type="submit" /><span>Submit Message</span></label>
+								</fieldset>
+							</form>
 						</div><!--  End of contact form  -->
-
 					</div>
 				</div><!-- end of content-left -->
 			</div>
