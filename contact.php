@@ -118,8 +118,13 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s247%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
-								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+								<iframe src="https://www.google.com/maps/embed/v1/place?q=960%20Turnpike%20Street%2C%20Canton%2C%20MA%2C%20USA&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14" 
+									width="400" 
+									height="300" 
+									style="border:0;"
+									allowfullscreen=""
+									loading="lazy"
+								></iframe>
 							</div>
 							 
 							<ul class="western">
