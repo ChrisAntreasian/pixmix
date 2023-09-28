@@ -134,17 +134,17 @@
 							</div>
 							 
 							<ul class="western">
-						        <li>
-						       		<img src="images/contact/randolph1.jpg" alt="Exterior of Harbor One Bank Building"/>
-						       	</li>
-						       	<li>
-							        <img src="images/contact/randolph2.jpg" alt="247 N. Main St. Randolph, MA." />
-							    </li>
+						    <li>
+						      <img src="images/contact/sign-960-turnpike-st-canton-ma.jpg" alt="Location Sign 960 Turnpike Street, Canton" />
+						    </li>
+						    <li>
+							    <img src="images/contact/foxwoods-buisness-center.jpg" alt="Full View of Sign (the wide shot of the sign)" />
+							  </li>
 								<li>
-									<img src="images/contact/randolph3.jpg" alt="Main Door Entrance"/>	
+									<img src="images/contact/exterior-960-turnpike-canton.jpg" alt="Exterior shot of 960 Turnpike Street building " />	
 								</li>
 								<li>
-									<img src="images/contact/randolph4.jpg" alt="1st. Floor Lobby & 2 Elevators" />	
+									<img src="images/contact/main-entrance.jpg" alt="Main Entrance" />	
 								</li>
 							</ul>
 						</div><!-- end of block-content -->
