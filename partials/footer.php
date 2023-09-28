@@ -4,8 +4,8 @@
             <div class="copyright-content">
                 <p>
                     © PixMix Video Services&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;617-901-7157<br />
-                    Studio Location  247 North Main Street, Randolph, MA 02368 <br />
-                    Business Office  7 Cliff Road  Suite 201, Bellingham, MA 02019
+                    Studio Location  960 Turnpike Street Suite 203, Canton, MA 02021 <br />
+                    Business Office  7 Cliff Road Suite 201, Bellingham, MA 02019
                 </p>
                 <div class="copyright-content--mobile">
                     <div>© PixMix Video Services</div>
