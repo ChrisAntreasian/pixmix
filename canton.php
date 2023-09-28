@@ -49,7 +49,7 @@
                     <ul class="col-3">
                         <li>
                             <a rel="images/canton/pixmix-floorplan-canton.jpg" href="images/canton/pixmix-floorplan-canton.jpg">
-                                <img src="images/canton/pixmix-floorplan-canton.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                                <img src="images/canton/pixmix-floorplan-canton.jpg" alt="Floorplan of PixMix Canton Studio Facility" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
@@ -98,7 +98,7 @@
                         </li>
                         <li>
                             <a rel="images/canton/webcast-master-canton.jpg" href="images/canton/webcast-master-canton.jpg">
-                                <img src="images/canton/webcast-master-canton.jpg" alt="Webcast Set… Master Shot… canton Studio" title="Webcast Set… Master Shot… canton Studio" />
+                                <img src="images/canton/webcast-master-canton.jpg" alt="Webcast Set… Master Shot… Canton Studio" title="Webcast Set… Master Shot… Canton Studio" />
                             </a>
                         </li>
                     </ul>
@@ -115,7 +115,7 @@
                         </li>
                         <li>
                             <a rel="images/canton/high-center.jpg" href="images/canton/high-center.jpg">
-                                <img src="images/canton/high-center.jpg" alt="High Center Shot of canton Set" title="High Center Shot of canton Set" />
+                                <img src="images/canton/high-center.jpg" alt="High Center Shot of Canton Set" title="High Center Shot of Canton Set" />
                             </a>
                         </li>
                     </ul>
@@ -148,8 +148,8 @@
 
                             <p>Our Green Room / Client Waiting Area is convenient to the studio. In addition we have a spacious Make-Up room that can also double as an alternate Green Room. The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby.</p>
                             
-                            <p>To book the studio for a live shot or for a multi-camera production please call <br/>617-901-7157 for rates and availability.</p>
-                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called PIXM-BOS-E1</p>
+                            <p>To book the studio for a live shot or for a multi-camera production please call <br/><span class="no-wrap">617-901-7157</span> for rates and availability.</p>
+                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called <span class="no-wrap">PIXM-BOS-E1</span></p>
                             <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>
 						</div><!-- end of block-content -->
                         <div class="content-left">

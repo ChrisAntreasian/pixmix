@@ -31,10 +31,10 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>247 North Main Street  (Harbor One Bank building)</div>
-							<div><strong>Or</strong> 1 Credit Union Way</div>
-							<div>Suite 201 Second Floor</div>
-							<div>Randolph MA  02368</div>
+							<div>960 Turnpike Street</div>
+							<div>FoxFord Business Center</div>
+							<div>Suite 203  Second Floor</div>
+							<div>Canton, MA  02021</div>
 						</div>
 						<div>
 							<h4>Main Business Number</h4>
@@ -43,16 +43,16 @@
 						<div>
 						<h4><strong>PixMix is on the LTN Network</strong></h4>
 							<h4>Fiber Circuit Number</h4>
-							<div>Our Outbound (SEND) circuit # is <strong>PIXM-BOS-E1</strong> </div>
-							<div>Our Inbound (RECEIVE) circuit # is <strong>PIXM-BOS-D1</strong> </div>
+							<div>Our Outbound (SEND) circuit # is <strong class="no-wrap">PIXM-BOS-E1</strong></div>
+							<div>Our Inbound (RECEIVE) circuit # is <strong class="no-wrap">PIXM-BOS-D1</strong></div>
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
-							<div>718-805-8573</div>
+							<div>339-502-9155</div>
 						</div>
 						<div>
 							<h4>Inbound PL Number</h4>
-							<div>XXX-yyy-ZZZZ</div>
+							<div>508-395-2134</div>
 						</div>
 						<div>
 							<h4>Control Room Trouble Number</h4>
@@ -60,19 +60,19 @@
 						 </div>		 
 						<div>
 							<h4>Business Office</h4>
-							<div>7 Cliff Road   Suite 201</div>
-							<div>Bellingham, MA  02019</div>
-							<div><strong>Cell</strong>  617-901-7157</div>
-							<div><strong>Land Line</strong>  508-966-3648</div>
+							<div>7 Cliff Road Suite 201</div>
+							<div>Bellingham, MA 02019</div>
+							<div><strong>Cell</strong>617-901-7157</div>
+							<div><strong>Land Line</strong>508-966-3648</div>
 						</div>
 					</div>
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 
-							247 North Main Street, Randolph, MA.  Our location is on the second floor 
-							of the Harbor One Bank building.  We have ample, FREE off street parking.   
-							Find us directly on the MBTA Bus Line #238 or #240
+							<strong>PixMix Video Services</strong> is located at 960 Turnpike Street in Canton MA.
+							We are in the first building on the LEFT as you enter the FoxFord Business Campus.
+							<br />
+							Our location is on the second floor of the building. We have ample, FREE off street parking.
 						</p>
 					</div>
 					<div>
