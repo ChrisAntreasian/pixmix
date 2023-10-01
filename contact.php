@@ -118,9 +118,7 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-								<iframe src="https://www.google.com/maps/embed/v1/place?q=960%20Turnpike%20Street%2C%20Canton%2C%20MA%2C%20USA&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14" 
-									width="400" 
-									height="300" 
+								<iframe src="https://www.google.com/maps/embed/v1/place?q=960%20Turnpike%20Street%2C%20Canton%2C%20MA%2C%20USA&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14"
 									style="border:0;"
 									allowfullscreen=""
 									loading="lazy"
