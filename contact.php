@@ -31,10 +31,10 @@
 					<div class="address-sidebar">
 						<div>
 							<h4>Studio Location</h4>
-							<div>247 North Main Street  (Harbor One Bank building)</div>
-							<div><strong>Or</strong> 1 Credit Union Way</div>
-							<div>Suite 201 Second Floor</div>
-							<div>Randolph MA  02368</div>
+							<div>960 Turnpike Street</div>
+							<div>FoxFord Business Center</div>
+							<div>Suite 203  Second Floor</div>
+							<div>Canton, MA  02021</div>
 						</div>
 						<div>
 							<h4>Main Business Number</h4>
@@ -43,16 +43,16 @@
 						<div>
 						<h4><strong>PixMix is on the LTN Network</strong></h4>
 							<h4>Fiber Circuit Number</h4>
-							<div>Our Outbound (SEND) circuit # is <strong>PIXM-BOS-E1</strong> </div>
-							<div>Our Inbound (RECEIVE) circuit # is <strong>PIXM-BOS-D1</strong> </div>
+							<div>Our Outbound (SEND) circuit # is <strong class="no-wrap">PIXM-BOS-E1</strong></div>
+							<div>Our Inbound (RECEIVE) circuit # is <strong class="no-wrap">PIXM-BOS-D1</strong></div>
 						</div>
 						<div>
 							<h4>Inbound IFB Number</h4>
-							<div>718-805-8573</div>
+							<div>339-502-9155</div>
 						</div>
 						<div>
 							<h4>Inbound PL Number</h4>
-							<div>XXX-yyy-ZZZZ</div>
+							<div>508-395-2134</div>
 						</div>
 						<div>
 							<h4>Control Room Trouble Number</h4>
@@ -60,62 +60,52 @@
 						 </div>		 
 						<div>
 							<h4>Business Office</h4>
-							<div>7 Cliff Road   Suite 201</div>
-							<div>Bellingham, MA  02019</div>
-							<div><strong>Cell</strong>  617-901-7157</div>
-							<div><strong>Land Line</strong>  508-966-3648</div>
+							<div>7 Cliff Road Suite 201</div>
+							<div>Bellingham, MA 02019</div>
+							<div><strong>Cell</strong>617-901-7157</div>
+							<div><strong>Land Line</strong>508-966-3648</div>
 						</div>
 					</div>
 					<div>
 						<h2>Our Location</h2>
 						<p>
-							<strong>PixMix Video Services</strong> is located at 
-							247 North Main Street, Randolph, MA.  Our location is on the second floor 
-							of the Harbor One Bank building.  We have ample, FREE off street parking.   
-							Find us directly on the MBTA Bus Line #238 or #240
+							<strong>PixMix Video Services</strong> is located at 960 Turnpike Street in Canton MA.
+							We are in the first building on the LEFT as you enter the FoxFord Business Campus.
+							<br />
+							Our location is on the second floor of the building. We have ample, FREE off street parking.
 						</p>
 					</div>
 					<div>
 						<h2>SEND US AN EMAIL</h2>
 						<!-- Contact Form -->
 						<div id="contact">
-				            <div id="message"></div>
-				            <form method="post" action="submit-contact" name="contactform" id="contactform">
-				            <fieldset>
-							<span class="input-wrapper">
-				            	<label for=name accesskey=U><span class="required"></span> Name:</label>
-				            	<input name="name" type="text" id="name" size="30" value="" />
-							</span>
-				            <br />
-
-							<span class="input-wrapper">
-				            	<label for=email accesskey=E><span class="required"></span> Email:</label>
-				            	<input name="email" type="text" id="email" size="30" value="" />
-							</span>
-
-
-				            <br />
-
-							<span class="input-wrapper">
-				            	<label for=subject accesskey=S><span class="required"></span> Subject:</label>
-				            	<input name="subject" type="text" id="subject" size="30" value="" />
-							</span>
-				            <br />
-
-
-				           	<label for=comments accesskey=C><span class="required"></span> Message:</label>
-							<span class="input-text">
-				            	<textarea name="comments" cols="40" rows="12"  id="comments" style="overflow: hidden;"></textarea>
-							</span>
-				            <br />
-
-
-							<label class="submit"><input name="Submit" id="submit" type="submit" /><span>Submit Message</span></label>
-
-				            </fieldset>
-				            </form>
+							<div id="message"></div>
+								<form method="post" action="submit-contact" name="contactform" id="contactform">
+								<fieldset>
+									<span class="input-wrapper">
+										<label for=name accesskey=U><span class="required"></span> Name:</label>
+										<input name="name" type="text" id="name" size="30" value="" />
+									</span>
+				          <br />
+									<span class="input-wrapper">
+				            <label for=email accesskey=E><span class="required"></span> Email:</label>
+				            <input name="email" type="text" id="email" size="30" value="" />
+									</span>
+									<br />
+									<span class="input-wrapper">
+										<label for=subject accesskey=S><span class="required"></span> Subject:</label>
+										<input name="subject" type="text" id="subject" size="30" value="" />
+									</span>
+				          <br />
+									<label for=comments accesskey=C><span class="required"></span> Message:</label>
+									<span class="input-text">
+										<textarea name="comments" cols="40" rows="12"  id="comments" style="overflow: hidden;"></textarea>
+									</span>
+				          <br />
+									<label class="submit"><input name="Submit" id="submit" type="submit" /><span>Submit Message</span></label>
+								</fieldset>
+							</form>
 						</div><!--  End of contact form  -->
-
 					</div>
 				</div><!-- end of content-left -->
 			</div>
@@ -128,23 +118,25 @@
 						<h4 class="title">Find us on the map</h4>
 						<div class="block-content">
 							<div class="map-holder">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.211642950392!2d-71.04642538493012!3d42.16715425525517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e482f985ec4ab3%3A0xf8c83d0e8a73e228!2s247%20N%20Main%20St%2C%20Randolph%2C%20MA%2002368!5e0!3m2!1sen!2sus!4v1636568671082!5m2!1sen!2sus" 
-								width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-									
+								<iframe src="https://www.google.com/maps/embed/v1/place?q=960%20Turnpike%20Street%2C%20Canton%2C%20MA%2C%20USA&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14"
+									style="border:0;"
+									allowfullscreen=""
+									loading="lazy"
+								></iframe>
 							</div>
 							 
 							<ul class="western">
-						        <li>
-						       		<img src="images/contact/randolph1.jpg" alt="Exterior of Harbor One Bank Building"/>
-						       	</li>
-						       	<li>
-							        <img src="images/contact/randolph2.jpg" alt="247 N. Main St. Randolph, MA." />
-							    </li>
+						    <li>
+						      <img src="images/contact/sign-960-turnpike-st-canton-ma.jpg" alt="Location Sign 960 Turnpike Street, Canton" />
+						    </li>
+						    <li>
+							    <img src="images/contact/foxwoods-buisness-center.jpg" alt="Full View of Sign (the wide shot of the sign)" />
+							  </li>
 								<li>
-									<img src="images/contact/randolph3.jpg" alt="Main Door Entrance"/>	
+									<img src="images/contact/exterior-960-turnpike-canton.jpg" alt="Exterior shot of 960 Turnpike Street building " />	
 								</li>
 								<li>
-									<img src="images/contact/randolph4.jpg" alt="1st. Floor Lobby & 2 Elevators" />	
+									<img src="images/contact/main-entrance.jpg" alt="Main Entrance" />	
 								</li>
 							</ul>
 						</div><!-- end of block-content -->
