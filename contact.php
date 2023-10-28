@@ -62,14 +62,15 @@
 							<h4>Business Office</h4>
 							<div>7 Cliff Road Suite 201</div>
 							<div>Bellingham, MA 02019</div>
-							<div><strong>Cell</strong>617-901-7157</div>
-							<div><strong>Land Line</strong>508-966-3648</div>
+							<div><strong>Cell</strong> 617-901-7157</div>
+							<div><strong>Land Line</strong> 508-966-3648</div>
 						</div>
 					</div>
 					<div>
 						<h2>Our Location</h2>
 						<p>
 							<strong>PixMix Video Services</strong> is located at 960 Turnpike Street in Canton MA.
+							<br />
 							We are in the first building on the LEFT as you enter the FoxFord Business Campus.
 							<br />
 							Our location is on the second floor of the building. We have ample, FREE off street parking.
@@ -119,7 +120,7 @@
 						<div class="block-content">
 							<div class="map-holder">
 								<iframe src="https://www.google.com/maps/embed/v1/place?q=960%20Turnpike%20Street%2C%20Canton%2C%20MA%2C%20USA&key=AIzaSyDV_9qcYFKiuPz2-dp1SvDZqj8yheuqX14"
-									style="border:0;"
+									style="border:0;width:100%;"
 									allowfullscreen=""
 									loading="lazy"
 								></iframe>
