@@ -23,8 +23,8 @@
                         </a>
                     </li>
                     <li>
-                        <a href="randolph">
-                            Randolph HD Studio
+                        <a href="canton">
+                            Canton HD Studio
                         </a>
                     </li>
                     <li>

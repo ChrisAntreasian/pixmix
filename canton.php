@@ -49,7 +49,7 @@
                     <ul class="col-3">
                         <li>
                             <a rel="images/canton/pixmix-floorplan-canton.jpg" href="images/canton/pixmix-floorplan-canton.jpg">
-                                <img src="images/canton/pixmix-floorplan-canton.jpg" alt="PixMix Studio HD Control Room Floorplan" title="PixMix Studio &amp; HD Control Room Floorplan" />
+                                <img src="images/canton/pixmix-floorplan-canton.jpg" alt="Floorplan of PixMix Canton Studio Facility" title="PixMix Studio &amp; HD Control Room Floorplan" />
                             </a>
                         </li>
                          <li>
@@ -98,7 +98,7 @@
                         </li>
                         <li>
                             <a rel="images/canton/webcast-master-canton.jpg" href="images/canton/webcast-master-canton.jpg">
-                                <img src="images/canton/webcast-master-canton.jpg" alt="Webcast Set… Master Shot… canton Studio" title="Webcast Set… Master Shot… canton Studio" />
+                                <img src="images/canton/webcast-master-canton.jpg" alt="Webcast Set… Master Shot… Canton Studio" title="Webcast Set… Master Shot… Canton Studio" />
                             </a>
                         </li>
                     </ul>
@@ -115,7 +115,7 @@
                         </li>
                         <li>
                             <a rel="images/canton/high-center.jpg" href="images/canton/high-center.jpg">
-                                <img src="images/canton/high-center.jpg" alt="High Center Shot of canton Set" title="High Center Shot of canton Set" />
+                                <img src="images/canton/high-center.jpg" alt="High Center Shot of Canton Set" title="High Center Shot of Canton Set" />
                             </a>
                         </li>
                     </ul>
@@ -129,8 +129,8 @@
                         <h4 class="title">HD Studio</h4>
                         <div class="block-content">
                             <p>
-                                The PixMix canton studio facility is <br />
-                                22’ x 22’ and is equipped with low heat <br />
+                                The PixMix Canton studio facility is <br />
+                                23’ x 28’ and is equipped with low heat <br />
                                 KinoFlo lighting instruments.
                                  <span class="mobile__body-img">
                                     <img src="images/mobile/doctors-prepare-for-web-cast.jpg" alt="Doctors prepare for a LIVE webcast" />
@@ -139,16 +139,17 @@
                             </p>
 
                             <p>
-                                This studio has a permanent set and “news desk”.  While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set.  For “live shots” we only use a single HD camera, but the studio is pre-wired for up to 3 HD cameras and we have produced a number of LIVE 3 camera webcasts from this space.
+                            This studio has a permanent set and “news desk”. While used primarily for single camera “live shots”, the studio can easily accommodate up to 6 people at one time on set. For “live shots” and Satellite Media Tours we only use a single HD camera, but the studio is pre-wired for up to 3 or 4 HD cameras. We have produced a number of LIVE 3 camera webcasts and Zoom events from this space.
                                 <span class="mobile__body-img">
                                     <img src="images/mobile/hd-control-room.jpg" alt="HD controll room" />
                                     <span class="mobile__body-caption">Front Bench of our HD Control Room</span>
                                 </span>
-                            <p>Our Green Room is convenient to the studio and has a small separate make-up / dressing room.  The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby and elevators. The oversized lobby can be used as an additional “holding area” for larger productions.</p>
-                            <p>Adjacent to the studio is our Multi-Camera Control Room. We control all the video signals from this area.</p>
-                            <p>To book the studio for a live shot or for a multi-camera production please call <br />617-901-7157 for rates and availability.</p>
-                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called</p>
-                            <p>PIXM-BOS-E1</p>
+                            <p>Adjacent to the studio is our Multi-Camera Control Room. We control all the video and audio signals from this area. This space is set up with a traditional “Front Bench” for the technical staff and a “Back Bench” for producers. We use a Studio Technologies IFB system for producer / talent communication.</p>
+
+                            <p>Our Green Room / Client Waiting Area is convenient to the studio. In addition we have a spacious Make-Up room that can also double as an alternate Green Room. The rest rooms are right next door. A central hallway connects all areas and leads to the outer lobby.</p>
+                            
+                            <p>To book the studio for a live shot or for a multi-camera production please call <br/><span class="no-wrap">617-901-7157</span> for rates and availability.</p>
+                            <p>The PixMix HD FIBER FEED CIRCUIT number on the LTN Network is called <span class="no-wrap">PIXM-BOS-E1</span></p>
                             <p>PixMix can book this circuit for you… or you can book it yourself by contacting the LTN TVOC (Television Operations Center) at <span class="no-wrap">240-855-0004.</span></p>
 						</div><!-- end of block-content -->
                         <div class="content-left">
